@@ -3,13 +3,38 @@ import json
 import os
 from datetime import datetime, timezone
 
-def buscar_calendario_compesa(nome_bairro_usuario):
+def buscar_calendario_compesa(nome_bairro_usuario, jaPerguntou=False):
     caminho_json = os.path.join(os.path.dirname(__file__), 'bairros.json')
     with open(caminho_json, 'r', encoding='utf-8') as f:
         mapa_bairros = json.load(f)
 
     bairro_chave = nome_bairro_usuario.upper().strip()
-    id_area = mapa_bairros.get(bairro_chave)
+    
+    opcoes = [k for k in mapa_bairros.keys() if k.startswith(bairro_chave) and k != bairro_chave]
+    
+    id_area = None
+    
+    if (opcoes or bairro_chave in mapa_bairros) and not jaPerguntou:
+        candidatos = [bairro_chave] + opcoes if bairro_chave in mapa_bairros else opcoes
+        ids_vistos = {}
+        
+        for nome in candidatos:
+            id_val = mapa_bairros.get(nome)
+            if id_val and id_val not in ids_vistos.values():
+                ids_vistos[nome] = id_val
+                
+
+        if len(ids_vistos) > 1:
+          sugestoes = sorted([nome.title() for nome in ids_vistos.keys()])
+          texto_opcoes = ", ".join(sugestoes[:-1]) + " ou " + sugestoes[-1]
+          return f"MULTIPLO|Encontrei variações para esse nome. Você se refere a: {texto_opcoes}?"
+        elif len(ids_vistos) == 1:
+          nome = list(ids_vistos.keys())[0]
+          id_area = ids_vistos[nome]
+          nome_bairro_usuario = nome
+    
+    if not id_area:
+      id_area = mapa_bairros.get(bairro_chave)
     
     if not id_area:
         return f"Desculpe, eu ainda não encontrei o {nome_bairro_usuario.title()} na minha lista."

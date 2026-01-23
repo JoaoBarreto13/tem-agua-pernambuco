@@ -23,6 +23,8 @@ class VerificarAguaIntentHandler(AbstractRequestHandler):
         return is_intent_name("VerificarAguaIntent")(handler_input)
 
     def handle(self, handler_input: HandlerInput) -> Response:
+        attributes_manager = handler_input.attributes_manager 
+        session_attributes = attributes_manager.session_attributes if attributes_manager.session_attributes is not None else {}
         request = handler_input.request_envelope.request
         
         if isinstance(request, IntentRequest):
@@ -40,9 +42,26 @@ class VerificarAguaIntentHandler(AbstractRequestHandler):
                         .response
                 )
 
-            resposta_texto = buscar_calendario_compesa(bairro_solicitado)
+            jaPerguntou = session_attributes.get("ultimo_Bairro_tentado") == bairro_solicitado
+            resposta_texto = buscar_calendario_compesa(bairro_solicitado, jaPerguntou)
+            
+            if "MULTIPLO|" in resposta_texto:
+                session_attributes["ultimo_Bairro_tentado"] = bairro_solicitado
+                attributes_manager.session_attributes = session_attributes
+                
+                mensagem = resposta_texto.replace("MULTIPLO|", "")
+                return (
+                    handler_input.response_builder
+                        .speak(mensagem)
+                        .ask("Qual dessas opções você quis dizer?")
+                        .response
+                )
+
         else:
             resposta_texto = "Desculpe, houve um erro ao processar esse pedido."
+        
+        session_attributes["ultimo_Bairro_tentado"] = None
+        attributes_manager.session_attributes = session_attributes
 
         return (
             handler_input.response_builder

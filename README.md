@@ -10,7 +10,8 @@ Este projeto é **Open Source** e visa facilitar o acesso à informação para o
 ## Como usar
 
 Após ativar a skill:
-- _"Alexa, inciar tem água pernambuco."_
+
+- _"Alexa, iniciar tem água pernambuco."_
 
 Você pode dizer o nome do seu bairro, por exemplo:
 
