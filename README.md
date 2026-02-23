@@ -44,6 +44,7 @@ Os bairros são mapeados manualmente para garantir que a Alexa entenda nomes com
 - Caçote
 - Caixa D'Água
 - Centro(Recife)
+- Coronel dos Passos
 - Coqueiral
 - Córrego do Abacaxi(Alto, Baixo e Entrada)
 - Engenho do Meio
@@ -54,6 +55,7 @@ Os bairros são mapeados manualmente para garantir que a Alexa entenda nomes com
 - Poço da Panela
 - Prado
 - Recife Antigo
+- Rio Doce
 - Roda de Fogo
 - Rosarinho
 - Santana
@@ -64,6 +66,7 @@ Os bairros são mapeados manualmente para garantir que a Alexa entenda nomes com
 - Sapucaia
 - Tamarineira
 - Torre
+- 
 - (Sinta-se à vontade para adicionar o seu aqui ao contribuir!)
 
 ## Como Contribuir
