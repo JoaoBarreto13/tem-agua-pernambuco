@@ -341,7 +341,7 @@
   },
   {
     "id": "CABR10",
-    "nome": "AREA 10 AUTO DA TEMPERATURA I",
+    "nome": "AREA 10 ALTO DA TEMPERATURA I",
     "localidade": "CABROBO",
     "municipio": "CABROBO",
     "coordenadas": [
@@ -351,7 +351,7 @@
   },
   {
     "id": "CABR11",
-    "nome": "AREA 11 AUTO DA TEMPERATURA II",
+    "nome": "AREA 11 ALTO DA TEMPERATURA II",
     "localidade": "CABROBO",
     "municipio": "CABROBO",
     "coordenadas": [
@@ -391,7 +391,7 @@
   },
   {
     "id": "CABR3",
-    "nome": "AREA 03 AUTO DO CEMITERIO",
+    "nome": "AREA 03 ALTO DO CEMITERIO",
     "localidade": "CABROBO",
     "municipio": "CABROBO",
     "coordenadas": [
@@ -551,7 +551,7 @@
   },
   {
     "id": "PRN3",
-    "nome": "AREA 05 COHAB AUTO DA COMPESA E FRANCISCO AGRA",
+    "nome": "AREA 05 COHAB ALTO DA COMPESA E FRANCISCO AGRA",
     "localidade": "PARNAMIRIM",
     "municipio": "PARNAMIRIM",
     "coordenadas": [
@@ -741,7 +741,7 @@
   },
   {
     "id": "DPFE02",
-    "nome": "AREA 02 RUA AUTO VERMELHO PARTE ALTA 1",
+    "nome": "AREA 02 RUA ALTO VERMELHO PARTE ALTA 1",
     "localidade": "PAU FERRO - SALGUEIRO",
     "municipio": "SALGUEIRO",
     "coordenadas": [
@@ -751,7 +751,7 @@
   },
   {
     "id": "DPFE03",
-    "nome": "AREA 03 AUTO VERMELHO PARTE ALTA 2",
+    "nome": "AREA 03 ALTO VERMELHO PARTE ALTA 2",
     "localidade": "PAU FERRO - SALGUEIRO",
     "municipio": "SALGUEIRO",
     "coordenadas": [
@@ -771,7 +771,7 @@
   },
   {
     "id": "DPFE01",
-    "nome": "AREA 01 AUTO VERMELHO PARTE BAIXA",
+    "nome": "AREA 01 ALTO VERMELHO PARTE BAIXA",
     "localidade": "PAU FERRO - SALGUEIRO",
     "municipio": "SALGUEIRO",
     "coordenadas": [
@@ -831,7 +831,7 @@
   },
   {
     "id": "TERN4",
-    "nome": "AREA 04 PRACA MINISTRO MARCOS FREIRE E AUTO DO CRUZEIRAO",
+    "nome": "AREA 04 PRACA MINISTRO MARCOS FREIRE E ALTO DO CRUZEIRAO",
     "localidade": "Terra Nova",
     "municipio": "TERRA NOVA",
     "coordenadas": [
@@ -1101,7 +1101,7 @@
   },
   {
     "id": "BON3",
-    "nome": "AREA 06 AUTO NOVO HORIZONTE",
+    "nome": "AREA 06 ALTO NOVO HORIZONTE",
     "localidade": "BONANCA",
     "municipio": "MORENO",
     "coordenadas": [
@@ -1111,7 +1111,7 @@
   },
   {
     "id": "BON4",
-    "nome": "AREA 05 AUTO DA ESTACAO AUTO DO PAU D ARCO",
+    "nome": "AREA 05 ALTO DA ESTACAO ALTO DO PAU D ARCO",
     "localidade": "BONANCA",
     "municipio": "MORENO",
     "coordenadas": [
@@ -1251,7 +1251,7 @@
   },
   {
     "id": "SASI03",
-    "nome": "AREA 03 AUTO DO CEMITERIO 2",
+    "nome": "AREA 03 ALTO DO CEMITERIO 2",
     "localidade": "Santo Amaro",
     "municipio": "SIRINHAEM",
     "coordenadas": [
@@ -1321,7 +1321,7 @@
   },
   {
     "id": "SASI02",
-    "nome": "AREA 02 AUTO DO CEMITERIO",
+    "nome": "AREA 02 ALTO DO CEMITERIO",
     "localidade": "Santo Amaro",
     "municipio": "SIRINHAEM",
     "coordenadas": [
@@ -1551,7 +1551,7 @@
   },
   {
     "id": "RIME04",
-    "nome": "AREA 04 AUTO DO CEMITERIO",
+    "nome": "AREA 04 ALTO DO CEMITERIO",
     "localidade": "RIACHO DO MEIO-S.J.EGITO",
     "municipio": "SAO JOSE DO EGITO",
     "coordenadas": [
@@ -1621,7 +1621,7 @@
   },
   {
     "id": "SINU05",
-    "nome": "AREA 05 CAIXA DAGUA AUTO",
+    "nome": "AREA 05 CAIXA DAGUA ALTO",
     "localidade": "SITIO DOS NUNES",
     "municipio": "FLORES",
     "coordenadas": [
@@ -1931,7 +1931,7 @@
   },
   {
     "id": "MART02",
-    "nome": "AREA 02 AUTO DO CEMITERIO",
+    "nome": "AREA 02 ALTO DO CEMITERIO",
     "localidade": "Tuparetama",
     "municipio": "TUPARETAMA",
     "coordenadas": [
@@ -1941,7 +1941,7 @@
   },
   {
     "id": "MART05",
-    "nome": "AREA 05 AUTO FIRMO DAMIAO",
+    "nome": "AREA 05 ALTO FIRMO DAMIAO",
     "localidade": "Tuparetama",
     "municipio": "TUPARETAMA",
     "coordenadas": [
@@ -1951,7 +1951,7 @@
   },
   {
     "id": "MART03",
-    "nome": "AREA 03 AUTO DA PATRONA",
+    "nome": "AREA 03 ALTO DA PATRONA",
     "localidade": "Tuparetama",
     "municipio": "TUPARETAMA",
     "coordenadas": [
@@ -3041,7 +3041,7 @@
   },
   {
     "id": "EETO01",
-    "nome": "AREA 01 AUTO DO JORGE",
+    "nome": "AREA 01 ALTO DO JORGE",
     "localidade": "RIACHO DO MEIO-S.J.EGITO",
     "municipio": "SAO JOSE DO EGITO",
     "coordenadas": [
@@ -3071,7 +3071,7 @@
   },
   {
     "id": "SLGD02",
-    "nome": "AREA 02 AUTO DA COMPESA",
+    "nome": "AREA 02 ALTO DA COMPESA",
     "localidade": "Salgadinho",
     "municipio": "SALGADINHO",
     "coordenadas": [
@@ -3161,7 +3161,7 @@
   },
   {
     "id": "ALBI1",
-    "nome": "AREA 01 AUTO DO BIGODE",
+    "nome": "AREA 01 ALTO DO BIGODE",
     "localidade": "PAULISTA",
     "municipio": "PAULISTA",
     "coordenadas": [
@@ -3391,7 +3391,7 @@
   },
   {
     "id": "MOR20",
-    "nome": "AREA 20 AUTO DA MATERNIDADE PARTE ALTA",
+    "nome": "AREA 20 ALTO DA MATERNIDADE PARTE ALTA",
     "localidade": "MORENO",
     "municipio": "MORENO",
     "coordenadas": [
@@ -3421,7 +3421,7 @@
   },
   {
     "id": "MOR12",
-    "nome": "AREA 12 RUA DA UNIAO ALTA RUA 14 DE JULHO AUTO DO CEMITERIO",
+    "nome": "AREA 12 RUA DA UNIAO ALTA RUA 14 DE JULHO ALTO DO CEMITERIO",
     "localidade": "MORENO",
     "municipio": "MORENO",
     "coordenadas": [
@@ -3561,7 +3561,7 @@
   },
   {
     "id": "IBRJ6",
-    "nome": "AREA 07 RUA ROSA DE SARON RUA AUTO DO CEU RUA DAS FLORES",
+    "nome": "AREA 07 RUA ROSA DE SARON RUA ALTO DO CEU RUA DAS FLORES",
     "localidade": "IBURA",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -3831,7 +3831,7 @@
   },
   {
     "id": "DPFE06",
-    "nome": "AREA 06 PAU FERRO AUTO BOM JESUS PARTE ALTA",
+    "nome": "AREA 06 PAU FERRO ALTO BOM JESUS PARTE ALTA",
     "localidade": "PAU FERRO - SALGUEIRO",
     "municipio": "SALGUEIRO",
     "coordenadas": [
@@ -3951,7 +3951,7 @@
   },
   {
     "id": "BET2",
-    "nome": "AREA 02 AUTO BOA VISTA",
+    "nome": "AREA 02 ALTO BOA VISTA",
     "localidade": "BETANIA",
     "municipio": "BETANIA",
     "coordenadas": [
@@ -4341,7 +4341,7 @@
   },
   {
     "id": "CNHT03",
-    "nome": "AREA 03 AUTO DO VENTO",
+    "nome": "AREA 03 ALTO DO VENTO",
     "localidade": "Canhotinho",
     "municipio": "CANHOTINHO",
     "coordenadas": [
@@ -4531,7 +4531,7 @@
   },
   {
     "id": "TRMA06",
-    "nome": "AREA 06 PLANAUTO INDEPENDENTE PARQUE DAS PEDRAS DEUS E FIEL",
+    "nome": "AREA 06 PLANALTO INDEPENDENTE PARQUE DAS PEDRAS DEUS E FIEL",
     "localidade": "Toritama",
     "municipio": "TORITAMA",
     "coordenadas": [
@@ -4591,7 +4591,7 @@
   },
   {
     "id": "CRZE01",
-    "nome": "AREA 02 AUTO DA BOA VISTA PARTE BAIXA",
+    "nome": "AREA 02 ALTO DA BOA VISTA PARTE BAIXA",
     "localidade": "Cruzes",
     "municipio": "PANELAS",
     "coordenadas": [
@@ -4702,7 +4702,7 @@
   {
     "id": "CAMN07",
     "nome": "AREA 10 RUA DOURADINHA E AVENIDA OTAC DE AZEVEDO SANG ADUTORA ",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.003075558726803,
@@ -4712,7 +4712,7 @@
   {
     "id": "LDPE04",
     "nome": "AREA 05 RUA MANOBRA MERCURIO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.015620325239052,
@@ -4831,7 +4831,7 @@
   },
   {
     "id": "FEND04",
-    "nome": "AREA 04 AUTO DA COLINA E RUA DOM JUQUINHA",
+    "nome": "AREA 04 ALTO DA COLINA E RUA DOM JUQUINHA",
     "localidade": "Fernando de Noronha",
     "municipio": "FERNANDO DE NORONHA",
     "coordenadas": [
@@ -5112,7 +5112,7 @@
   {
     "id": "REDIS16",
     "nome": "AREA 01 DISTRITO 16 - RUA VISCONDE DE ABAETE",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.035791471738401,
@@ -5151,7 +5151,7 @@
   },
   {
     "id": "BRJE04",
-    "nome": "AREA 04 AUTO DO GIQUIRI",
+    "nome": "AREA 04 ALTO DO GIQUIRI",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -5161,7 +5161,7 @@
   },
   {
     "id": "BRJE01",
-    "nome": "AREA 01 RUA AUTO DA BRASILEIRA E RUA AUTO FORMOSO",
+    "nome": "AREA 01 RUA ALTO DA BRASILEIRA E RUA ALTO FORMOSO",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -5232,7 +5232,7 @@
   {
     "id": "ALPL03",
     "nome": "AREA 03 RUA MONTE CARMELO E 1 TRAVESSA DA RUA DO MEIO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.019102655738926,
@@ -5242,7 +5242,7 @@
   {
     "id": "ALPL02",
     "nome": "AREA 02 RUA SAO BRAZ E RUA DOS ANJOS",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.018180420738938,
@@ -5252,7 +5252,7 @@
   {
     "id": "ALPLVIII",
     "nome": "AREA 08 MANOBRA VITORIA II",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.014883857239088,
@@ -5262,7 +5262,7 @@
   {
     "id": "ALDET01",
     "nome": "AREA 01 RUA AVELAR E RUA CORREGO DA CALMA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01874241673894,
@@ -5272,7 +5272,7 @@
   {
     "id": "LDPE03",
     "nome": "AREA 02 RUA JULIO LIMA E CORREGO JOAO FRANCISCO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.019231231238937,
@@ -5282,7 +5282,7 @@
   {
     "id": "ALDET03",
     "nome": "AREA 03 RUA ANTONIO MEIRA 1",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.019294987738936,
@@ -5292,7 +5292,7 @@
   {
     "id": "ALDET02",
     "nome": "AREA 02 RUA 10 DE JANEIRO E RUA ELZA PARTE ALTA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.018161556738974,
@@ -5302,7 +5302,7 @@
   {
     "id": "PCOL02",
     "nome": "AREA 02 RUA MONTE OREBE E RUA VALERIANO LOBO E SKAILAB",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.02357242173882,
@@ -5312,7 +5312,7 @@
   {
     "id": "JPNH03",
     "nome": "AREA 03 RUA BARRA VERDE E RUA MIGUEL CAVALCANTI DE OLIVEIRA PRAC",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.023456251238787,
@@ -5322,7 +5322,7 @@
   {
     "id": "POFE01",
     "nome": "AREA 01 RUA AVENCA E RUA MACAPARANA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.022651575738834,
@@ -5332,7 +5332,7 @@
   {
     "id": "POFE02",
     "nome": "AREA 02 RUA DOM MAURICIO E RUA ARACATIARA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.022949670238804,
@@ -5342,7 +5342,7 @@
   {
     "id": "POFE03",
     "nome": "AREA 03 RUA LAJE DO UNA E RUA DO UMBUZEIRO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.024277435738767,
@@ -5481,7 +5481,7 @@
   },
   {
     "id": "BRJE02",
-    "nome": "AREA 02 AUTO VENANCIO E RUA DO MARRECO",
+    "nome": "AREA 02 ALTO VENANCIO E RUA DO MARRECO",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -5491,7 +5491,7 @@
   },
   {
     "id": "DSJE04",
-    "nome": "AREA 04 RUA AUTO ANTONIO FELIX E RUA NOVA DESCOBERTA PROGRESSO 4",
+    "nome": "AREA 04 RUA ALTO ANTONIO FELIX E RUA NOVA DESCOBERTA PROGRESSO 4",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -5792,7 +5792,7 @@
   {
     "id": "GUAU03",
     "nome": "AREA 03 RUA E TRAVESSA FREI  JORGE NO BAIRRO DA LINHA DO TIRO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.009877126739234,
@@ -5941,7 +5941,7 @@
   },
   {
     "id": "TRIFI08",
-    "nome": "AREA 01 AUTO DA BOA VISTA",
+    "nome": "AREA 01 ALTO DA BOA VISTA",
     "localidade": "Triunfo",
     "municipio": "TRIUNFO",
     "coordenadas": [
@@ -6281,7 +6281,7 @@
   },
   {
     "id": "NZMT03",
-    "nome": "AREA 03 AUTO DA SANTA",
+    "nome": "AREA 03 ALTO DA SANTA",
     "localidade": "NAZARE DA MATA",
     "municipio": "NAZARE DA MATA",
     "coordenadas": [
@@ -6331,7 +6331,7 @@
   },
   {
     "id": "ABLI04",
-    "nome": "AREA 06 AUTO BELA VISTA",
+    "nome": "AREA 06 ALTO BELA VISTA",
     "localidade": "ABREU E LIMA",
     "municipio": "ABREU E LIMA",
     "coordenadas": [
@@ -6341,7 +6341,7 @@
   },
   {
     "id": "PLAB02",
-    "nome": "AREA 02 PLANAUTO 7 DE SETEMBRO EUCALIPTO PARTE ALTA",
+    "nome": "AREA 02 PLANALTO 7 DE SETEMBRO EUCALIPTO PARTE ALTA",
     "localidade": "ABREU E LIMA",
     "municipio": "ABREU E LIMA",
     "coordenadas": [
@@ -6361,7 +6361,7 @@
   },
   {
     "id": "PLAB04",
-    "nome": "AREA 04 PLANAUTO PRIMAVERA",
+    "nome": "AREA 04 PLANALTO PRIMAVERA",
     "localidade": "ABREU E LIMA",
     "municipio": "ABREU E LIMA",
     "coordenadas": [
@@ -6391,7 +6391,7 @@
   },
   {
     "id": "ABLI02",
-    "nome": "AREA 04 AUTO JOSE BONIFACIO",
+    "nome": "AREA 04 ALTO JOSE BONIFACIO",
     "localidade": "ABREU E LIMA",
     "municipio": "ABREU E LIMA",
     "coordenadas": [
@@ -6421,7 +6421,7 @@
   },
   {
     "id": "ABVC01",
-    "nome": "AREA 01 AUTO DA FOICE",
+    "nome": "AREA 01 ALTO DA FOICE",
     "localidade": "VICENCIA",
     "municipio": "VICENCIA",
     "coordenadas": [
@@ -6472,7 +6472,7 @@
   {
     "id": "ALDET05",
     "nome": "AREA 05 AV ANIBAL BENEVOLO E RUA LADEIRA DE PERDA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.013248484739133,
@@ -6482,7 +6482,7 @@
   {
     "id": "GUAU02",
     "nome": "AREA 02 RUAS URIEL DE HOLANDA PORTO DE PEDRA GUARANI E RIO TINTO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.006383361239347,
@@ -6491,8 +6491,8 @@
   },
   {
     "id": "SNMR01",
-    "nome": "AREA 01 RUA AUTO DO BONITO E RUA  AUTO DO PEREINHA",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 01 RUA ALTO DO BONITO E RUA  ALTO DO PEREINHA",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01439051923909,
@@ -6502,7 +6502,7 @@
   {
     "id": "MIRR01",
     "nome": "AREA 01 RUA MARIA RAMOS RUA ANDRE BEZERRA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.013168718739138,
@@ -6512,7 +6512,7 @@
   {
     "id": "LDPE02",
     "nome": "AREA 01 RUA CORREGO BOMBEIRENSE RUA VINTE E NOVE",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.018039193738971,
@@ -6522,7 +6522,7 @@
   {
     "id": "ADC3",
     "nome": "AREA 01 RUA GRAVATA E RUA EUCLIDES DE BARROS CORREIA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01506880873907,
@@ -6532,7 +6532,7 @@
   {
     "id": "LDPE01",
     "nome": "AREA 04 RUA ARAMBORE E RUA SARAUNA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.016547207239007,
@@ -6542,7 +6542,7 @@
   {
     "id": "ALDET06",
     "nome": "AREA 06 RUA VINTE E UM E RUA QUARENTA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.016017174239035,
@@ -6562,7 +6562,7 @@
   {
     "id": "ALPL07",
     "nome": "AREA 07 RUA CORREGO SAO JOSE MANOBRA LIDIA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.015912536239021,
@@ -6572,7 +6572,7 @@
   {
     "id": "ALPL08",
     "nome": "AREA 09 RUA MANOBRA DA VITORIA I",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.014900973739064,
@@ -6582,7 +6582,7 @@
   {
     "id": "ALPL01",
     "nome": "AREA 01 RUA LADEIRA DE PEDRA PARTE INTERMEDIARIA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.018231352738962,
@@ -6592,7 +6592,7 @@
   {
     "id": "ALPL06",
     "nome": "AREA 06 RUA MANOBRA EGAZ MUNIZ",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.016549711739007,
@@ -6602,7 +6602,7 @@
   {
     "id": "ALPL05",
     "nome": "AREA 05 RUA SAO RAFAEL E RUA MANTIQUEIRA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01919332573892,
@@ -6612,7 +6612,7 @@
   {
     "id": "ALPL04",
     "nome": "AREA 04 RUA DA CUTIA E RUA PENAPOLIS",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.017496415238984,
@@ -6622,7 +6622,7 @@
   {
     "id": "ALDET04",
     "nome": "AREA 04 RUA ANTONIO MEIRA 2",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.017407189738982,
@@ -6632,7 +6632,7 @@
   {
     "id": "LDPE05",
     "nome": "AREA 06 RUA CORREGO ANTONIO RODRIGUES",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01571482373905,
@@ -6642,7 +6642,7 @@
   {
     "id": "LDPE07",
     "nome": "AREA 03 RUA ATALANTA E RUA ARAPONGA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.017164748238981,
@@ -6662,7 +6662,7 @@
   {
     "id": "LDPE06",
     "nome": "AREA 07 RUA TRINTA E CINCO E RUA ARABARY",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.017133163239023,
@@ -6691,7 +6691,7 @@
   },
   {
     "id": "CDRE01",
-    "nome": "AREA 01 RUA DIVISOPOLIS E AUTO DO MARACANA CANA",
+    "nome": "AREA 01 RUA DIVISOPOLIS E ALTO DO MARACANA CANA",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -6712,7 +6712,7 @@
   {
     "id": "GUAU01",
     "nome": "AREA 01 RUAS GUAPIACU GUAIARA GUARAJA RIO CORRENTE RUA JURANDIR ",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.008675054739262,
@@ -6722,7 +6722,7 @@
   {
     "id": "ADDM17",
     "nome": "AREA 16 RUA CORREGO DO TIRO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.012917328739132,
@@ -6732,7 +6732,7 @@
   {
     "id": "D17B",
     "nome": "AREA 01 DISTRITO 17B - RUA CASTRO ALVES E RUA AMARO COUTINHO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.035190025738434,
@@ -6742,7 +6742,7 @@
   {
     "id": "D17A",
     "nome": "AREA 01 DISTRITO 17A - RUA BOLIVAR E RUA RIOLNDIA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.021801607738848,
@@ -6771,7 +6771,7 @@
   },
   {
     "id": "AMUV09",
-    "nome": "AREA 09 CRUZEIRO PARTE AUTO",
+    "nome": "AREA 09 CRUZEIRO PARTE ALTO",
     "localidade": "MURUPE - VICENCIA",
     "municipio": "VICENCIA",
     "coordenadas": [
@@ -7091,7 +7091,7 @@
   },
   {
     "id": "LIMO08",
-    "nome": "AREA 05 BAIRRO AUTO SAO SEBASTIAO AUTO",
+    "nome": "AREA 05 BAIRRO ALTO SAO SEBASTIAO ALTO",
     "localidade": "LIMOEIRO",
     "municipio": "LIMOEIRO",
     "coordenadas": [
@@ -7131,7 +7131,7 @@
   },
   {
     "id": "LIMO03",
-    "nome": "AREA 04 BAIRRO AUTO SAO SEBASTIAO PARTE BAIXA",
+    "nome": "AREA 04 BAIRRO ALTO SAO SEBASTIAO PARTE BAIXA",
     "localidade": "LIMOEIRO",
     "municipio": "LIMOEIRO",
     "coordenadas": [
@@ -7312,7 +7312,7 @@
   {
     "id": "CMNM08",
     "nome": "AREA 01 RUA 2 DE FEVE RUA CORREGO MANOBRA MIGUEL CARNEIRO FECHAR",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01891399723893,
@@ -7322,7 +7322,7 @@
   {
     "id": "MRRC02",
     "nome": "AREA 02 RUA DA MOCIDADE",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.017909565738979,
@@ -7332,7 +7332,7 @@
   {
     "id": "CAMN01",
     "nome": "AREA 02 RUA 2 DE FEVE RUA CORREGO MANOBRA MIGUEL CARNEIRO ABRIR",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.019819141738923,
@@ -7341,8 +7341,8 @@
   },
   {
     "id": "CAMN06",
-    "nome": "AREA 09 RUA AUTO TREZE DE MAIO RUA LAJEDO",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 09 RUA ALTO TREZE DE MAIO RUA LAJEDO",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.010910499239213,
@@ -7351,8 +7351,8 @@
   },
   {
     "id": "CAMN02",
-    "nome": "AREA 03 RUA LUIZ CESARIO DE MELO PARTE ALTA E AUTO DA FAVELA",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 03 RUA LUIZ CESARIO DE MELO PARTE ALTA E ALTO DA FAVELA",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.017284780738986,
@@ -7372,7 +7372,7 @@
   {
     "id": "MRRC01",
     "nome": "AREA 01 RUA MORRO DA CONCEICAO PRACA MORRO DA CONCEICAO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.019411593238942,
@@ -7382,7 +7382,7 @@
   {
     "id": "MRRC03",
     "nome": "AREA 03 RUA MORENO E ITAQUATIARA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.02060527173889,
@@ -7392,7 +7392,7 @@
   {
     "id": "CAMN5",
     "nome": "AREA 04 RUA NOVA DESCOBERTA RUA DA IMBAUBA E RUA SUBIDA DA RAPAS",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.009469982239239,
@@ -7441,7 +7441,7 @@
   },
   {
     "id": "R3MS66385",
-    "nome": "AREA 07 AUTO DA GOIABEIRA",
+    "nome": "AREA 07 ALTO DA GOIABEIRA",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7501,7 +7501,7 @@
   },
   {
     "id": "R5MS10",
-    "nome": "AREA 07 AUTO DO VENTO 01",
+    "nome": "AREA 07 ALTO DO VENTO 01",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7511,7 +7511,7 @@
   },
   {
     "id": "R5MS66776",
-    "nome": "AREA 01 AUTO JARDIM QUITANDINHA",
+    "nome": "AREA 01 ALTO JARDIM QUITANDINHA",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7541,7 +7541,7 @@
   },
   {
     "id": "R5MS005",
-    "nome": "AREA 09 AUTO DO VENTO 02",
+    "nome": "AREA 09 ALTO DO VENTO 02",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7561,7 +7561,7 @@
   },
   {
     "id": "R5MS66784",
-    "nome": "AREA 08 AUTO DO VENTO GERLAINE",
+    "nome": "AREA 08 ALTO DO VENTO GERLAINE",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7631,7 +7631,7 @@
   },
   {
     "id": "R2MS3",
-    "nome": "AREA 02 ENGENHO VELHO AUTO",
+    "nome": "AREA 02 ENGENHO VELHO ALTO",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7641,7 +7641,7 @@
   },
   {
     "id": "R2MS67616",
-    "nome": "AREA 15 AUTO DA FABRICA PARTE BAIXA",
+    "nome": "AREA 15 ALTO DA FABRICA PARTE BAIXA",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7651,7 +7651,7 @@
   },
   {
     "id": "R2MS15",
-    "nome": "AREA 14 AUTO DA FABRICA PARTE ALTA",
+    "nome": "AREA 14 ALTO DA FABRICA PARTE ALTA",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7661,7 +7661,7 @@
   },
   {
     "id": "R5MS7",
-    "nome": "AREA 03 AUTO SANTA ROSA",
+    "nome": "AREA 03 ALTO SANTA ROSA",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -7691,7 +7691,7 @@
   },
   {
     "id": "MOR19",
-    "nome": "AREA 19 AUTO DA MATERNIDADE PARTE BAIXA",
+    "nome": "AREA 19 ALTO DA MATERNIDADE PARTE BAIXA",
     "localidade": "MORENO",
     "municipio": "MORENO",
     "coordenadas": [
@@ -7731,7 +7731,7 @@
   },
   {
     "id": "IBURPA2",
-    "nome": "AREA 04 UR 10 RUA AUTO DO ERVAL NOVO E RUA SERGIO ROCHA",
+    "nome": "AREA 04 UR 10 RUA ALTO DO ERVAL NOVO E RUA SERGIO ROCHA",
     "localidade": "IBURA",
     "municipio": "JABOATAO DOS GUARARAPES, RECIFE",
     "coordenadas": [
@@ -7741,7 +7741,7 @@
   },
   {
     "id": "IBURPA1",
-    "nome": "AREA 01 UR 10 RUA AUTO DA BOA ESPERANCA E RUA PARANACITI",
+    "nome": "AREA 01 UR 10 RUA ALTO DA BOA ESPERANCA E RUA PARANACITI",
     "localidade": "IBURA",
     "municipio": "JABOATAO DOS GUARARAPES, RECIFE",
     "coordenadas": [
@@ -7801,7 +7801,7 @@
   },
   {
     "id": "DSJE03",
-    "nome": "AREA 03 RUA AUTO JARDIM PROGRESSO",
+    "nome": "AREA 03 RUA ALTO JARDIM PROGRESSO",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -8081,7 +8081,7 @@
   },
   {
     "id": "PRIMA02",
-    "nome": "AREA 02 AUTO DA BARRA",
+    "nome": "AREA 02 ALTO DA BARRA",
     "localidade": "Primavera",
     "municipio": "PRIMAVERA",
     "coordenadas": [
@@ -8381,7 +8381,7 @@
   },
   {
     "id": "CASP03",
-    "nome": "AREA 03 RUA AUTO SANTO ANTONIO PARTE ALTA",
+    "nome": "AREA 03 RUA ALTO SANTO ANTONIO PARTE ALTA",
     "localidade": "JOAO ALFREDO",
     "municipio": "JOAO ALFREDO",
     "coordenadas": [
@@ -8421,7 +8421,7 @@
   },
   {
     "id": "REDJ02",
-    "nome": "AREA 02 SITIO AUTOS",
+    "nome": "AREA 02 SITIO ALTOS",
     "localidade": "ENCRUZILHADA DE SAO JOAO",
     "municipio": "BOM JARDIM",
     "coordenadas": [
@@ -8481,7 +8481,7 @@
   },
   {
     "id": "CGAL05",
-    "nome": "AREA 02 RUA AUTO SANTO ANTONIO PARTE BAIXA",
+    "nome": "AREA 02 RUA ALTO SANTO ANTONIO PARTE BAIXA",
     "localidade": "JOAO ALFREDO",
     "municipio": "JOAO ALFREDO",
     "coordenadas": [
@@ -8571,7 +8571,7 @@
   },
   {
     "id": "CHZB04",
-    "nome": "AREA 04 AUTO DO DERBY PARTE ALTA RUA DERBY",
+    "nome": "AREA 04 ALTO DO DERBY PARTE ALTA RUA DERBY",
     "localidade": "BOM JARDIM",
     "municipio": "BOM JARDIM",
     "coordenadas": [
@@ -8581,7 +8581,7 @@
   },
   {
     "id": "CHZB03",
-    "nome": "AREA 03 CHA DO ARROZ PARTE ALTA RUA AUTO DO DERBY",
+    "nome": "AREA 03 CHA DO ARROZ PARTE ALTA RUA ALTO DO DERBY",
     "localidade": "BOM JARDIM",
     "municipio": "BOM JARDIM",
     "coordenadas": [
@@ -8621,7 +8621,7 @@
   },
   {
     "id": "CHZB01",
-    "nome": "AREA 01 CHA DO ARROZ PARTE BAIXA RUA AUTO DO DERBY",
+    "nome": "AREA 01 CHA DO ARROZ PARTE BAIXA RUA ALTO DO DERBY",
     "localidade": "BOM JARDIM",
     "municipio": "BOM JARDIM",
     "coordenadas": [
@@ -8631,7 +8631,7 @@
   },
   {
     "id": "CHZB05",
-    "nome": "AREA 05 AUTO DO DERBY SITIO TORTO RUA DERBY",
+    "nome": "AREA 05 ALTO DO DERBY SITIO TORTO RUA DERBY",
     "localidade": "BOM JARDIM",
     "municipio": "BOM JARDIM",
     "coordenadas": [
@@ -8651,7 +8651,7 @@
   },
   {
     "id": "CHZB02",
-    "nome": "AREA 02 CHA DO ARROZ PARTE DO MEIO 2 TRAVESSA DO AUTO DO DERBY",
+    "nome": "AREA 02 CHA DO ARROZ PARTE DO MEIO 2 TRAVESSA DO ALTO DO DERBY",
     "localidade": "BOM JARDIM",
     "municipio": "BOM JARDIM",
     "coordenadas": [
@@ -8671,7 +8671,7 @@
   },
   {
     "id": "BJDM04",
-    "nome": "AREA 04 AUTO PARAISO RUA B",
+    "nome": "AREA 04 ALTO PARAISO RUA B",
     "localidade": "BOM JARDIM",
     "municipio": "BOM JARDIM",
     "coordenadas": [
@@ -9011,8 +9011,8 @@
   },
   {
     "id": "JBON01",
-    "nome": "AREA 01 RUA AUTO JOSE BONIFACIO PARTE BAIXA",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 01 RUA ALTO JOSE BONIFACIO PARTE BAIXA",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.016859646238995,
@@ -9022,7 +9022,7 @@
   {
     "id": "POJA03",
     "nome": "AREA 03 RUA JOSE AMARINO DOS REIS",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.018103328738974,
@@ -9031,8 +9031,8 @@
   },
   {
     "id": "JBON02",
-    "nome": "AREA 02 RUA AUTO DO BRASIL PARTE BAIXA RUA AUTO DO PARAGUAI ",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 02 RUA ALTO DO BRASIL PARTE BAIXA RUA ALTO DO PARAGUAI ",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.013260001739127,
@@ -9042,7 +9042,7 @@
   {
     "id": "POJA06",
     "nome": "AREA 06 RUA CORREGO JOSE GRANDE",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01719626123899,
@@ -9052,7 +9052,7 @@
   {
     "id": "POJA05",
     "nome": "AREA 05 RUA PLANALTINA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.019125129238954,
@@ -9062,7 +9062,7 @@
   {
     "id": "POJA04",
     "nome": "AREA 04 RUA AUREA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.018331250238967,
@@ -9071,8 +9071,8 @@
   },
   {
     "id": "JBBS04",
-    "nome": "AREA 04 RUA AUTO DO BRASIL E AUTO DA SAUDADE PARTE BAIXA",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 04 RUA ALTO DO BRASIL E ALTO DA SAUDADE PARTE BAIXA",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.017396509238983,
@@ -9082,7 +9082,7 @@
   {
     "id": "JBON03",
     "nome": "AREA 03 RUA GOUVELANDIA E RUA CORREGO MANOEL JOAO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.009571709739248,
@@ -9101,8 +9101,8 @@
   },
   {
     "id": "78396",
-    "nome": "AREA 01 IUTEPORA AUTO BONITO",
-    "localidade": "AUTO BONITO",
+    "nome": "AREA 01 IUTEPORA ALTO BONITO",
+    "localidade": "ALTO BONITO",
     "municipio": "BONITO",
     "coordenadas": [
       -8.49963154222376,
@@ -9411,7 +9411,7 @@
   },
   {
     "id": "ARMI04",
-    "nome": "AREA 04 AUTO SANTA ISABEL",
+    "nome": "AREA 04 ALTO SANTA ISABEL",
     "localidade": "DOIS IRMAOS",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -9491,7 +9491,7 @@
   },
   {
     "id": "GLG2",
-    "nome": "AREA 02 CENTRO E SANTA RITA E CAMPO ALEGRE BELA VISTA PLANAUTO",
+    "nome": "AREA 02 CENTRO E SANTA RITA E CAMPO ALEGRE BELA VISTA PLANALTO",
     "localidade": "GLORIA DO GOITA",
     "municipio": "GLORIA DO GOITA",
     "coordenadas": [
@@ -9531,7 +9531,7 @@
   },
   {
     "id": "JERC02",
-    "nome": "AREA 03 AUTO",
+    "nome": "AREA 03 ALTO",
     "localidade": "JERICO",
     "municipio": "TRIUNFO",
     "coordenadas": [
@@ -9561,7 +9561,7 @@
   },
   {
     "id": "ITFO07",
-    "nome": "AREA 07 AUTO CEU AZUL PARTE ALTA",
+    "nome": "AREA 07 ALTO CEU AZUL PARTE ALTA",
     "localidade": "ITAMARACA",
     "municipio": "ILHA DE ITAMARACA",
     "coordenadas": [
@@ -9571,7 +9571,7 @@
   },
   {
     "id": "ITOR06",
-    "nome": "AREA 06 AUTO CEU AZUL PARTE BAIXA",
+    "nome": "AREA 06 ALTO CEU AZUL PARTE BAIXA",
     "localidade": "ITAMARACA",
     "municipio": "ILHA DE ITAMARACA",
     "coordenadas": [
@@ -10241,7 +10241,7 @@
   },
   {
     "id": "STTP04",
-    "nome": "AREA 04 RUA AUTO DA TELHA PARTE ALTA",
+    "nome": "AREA 04 RUA ALTO DA TELHA PARTE ALTA",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -10251,7 +10251,7 @@
   },
   {
     "id": "CXST01",
-    "nome": "AREA 01 RUA AUTO DA BICA RUA ARNULFO FALCAO",
+    "nome": "AREA 01 RUA ALTO DA BICA RUA ARNULFO FALCAO",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -10261,7 +10261,7 @@
   },
   {
     "id": "CXST02",
-    "nome": "AREA 02 RUA AUTO DA TELHA PARTE INTERMEDIARIA",
+    "nome": "AREA 02 RUA ALTO DA TELHA PARTE INTERMEDIARIA",
     "localidade": "JENIPAPO",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -10341,7 +10341,7 @@
   },
   {
     "id": "SJAF01",
-    "nome": "AREA 01 BOM FUTURO PARTE ALTA E AUTO DA ASSEMBLEIA",
+    "nome": "AREA 01 BOM FUTURO PARTE ALTA E ALTO DA ASSEMBLEIA",
     "localidade": "SIRIJI",
     "municipio": "SAO VICENTE FERRER",
     "coordenadas": [
@@ -10382,7 +10382,7 @@
   {
     "id": "ADDM04",
     "nome": "AREA 04 RUA CORREGO CENTRAL",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.00776980923928,
@@ -10392,7 +10392,7 @@
   {
     "id": "ADDM05",
     "nome": "AREA 05 AV OPERARIA E RUA TAGUATINGA MANOBRA IGREJA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.004962039739386,
@@ -10402,7 +10402,7 @@
   {
     "id": "ADDM26",
     "nome": "AREA 06 RUA VISCONDE DE ALCANTRA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.008035866239272,
@@ -10411,8 +10411,8 @@
   },
   {
     "id": "ADDM12",
-    "nome": "AREA 11 RUA AUTO DOS COQUEIROS E RUA TRES LAGOAS PARTE ALTA",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 11 RUA ALTO DOS COQUEIROS E RUA TRES LAGOAS PARTE ALTA",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.0080573692393,
@@ -10422,7 +10422,7 @@
   {
     "id": "ADDM16",
     "nome": "AREA 15 RUA CONS BARROS BARRETO",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.009727612739251,
@@ -10432,7 +10432,7 @@
   {
     "id": "ADDM02",
     "nome": "AREA 02 RUA RIO GUAIBA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.011164520239198,
@@ -10442,7 +10442,7 @@
   {
     "id": "ADDM14",
     "nome": "AREA 13 RUA CORREGO DA PADARIA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01219088073916,
@@ -10452,7 +10452,7 @@
   {
     "id": "ADDM08",
     "nome": "AREA 08 RUA CORREGO DEODATO E ENCONTAS",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01216650823915,
@@ -10462,7 +10462,7 @@
   {
     "id": "ADDM07",
     "nome": "AREA 07 RUA VANDERSON WANDERLEY E RUA ARAXA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.012869579739153,
@@ -10472,7 +10472,7 @@
   {
     "id": "ADDM03",
     "nome": "AREA 03 RUA FLORESTOPOLIS MANOBRA IGREJA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.009933844239232,
@@ -10482,7 +10482,7 @@
   {
     "id": "ADDM15",
     "nome": "AREA 14 RUA IDEAL E RUA BURITIS",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.010763101239196,
@@ -10492,7 +10492,7 @@
   {
     "id": "ADDM13",
     "nome": "AREA 12 RUA MANOEL BRAZAO E ENCOSTAS",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01372445173909,
@@ -10502,7 +10502,7 @@
   {
     "id": "ADDM18",
     "nome": "AREA 17 RUA DA JAQUEIRA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.013003741739144,
@@ -10512,7 +10512,7 @@
   {
     "id": "ADDM09",
     "nome": "AREA 09 RUA SODRELANDIA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.00925704073925,
@@ -10521,8 +10521,8 @@
   },
   {
     "id": "ADDM01",
-    "nome": "AREA 01 RUA AUTO DO GUILHERMINO",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 01 RUA ALTO DO GUILHERMINO",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.01190827373916,
@@ -10532,7 +10532,7 @@
   {
     "id": "ADDM21",
     "nome": "AREA 10 RUA CORREGO DA JAQUEIRA  E RUA LUISIANA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.008588875239273,
@@ -10541,8 +10541,8 @@
   },
   {
     "id": "ADDM19",
-    "nome": "AREA 18 RUA HERMES FONSECA E RUA AUTO DEODATO",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 18 RUA HERMES FONSECA E RUA ALTO DEODATO",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.013163923239118,
@@ -10671,7 +10671,7 @@
   },
   {
     "id": "SAII1",
-    "nome": "AREA 08 CASTELINHO AUTO DAS ABELHAS",
+    "nome": "AREA 08 CASTELINHO ALTO DAS ABELHAS",
     "localidade": "SALGUEIRO",
     "municipio": "SALGUEIRO",
     "coordenadas": [
@@ -10791,7 +10791,7 @@
   },
   {
     "id": "POCA03",
-    "nome": "AREA 03 AUTO DO SOL E AUTO DOS PIRES",
+    "nome": "AREA 03 ALTO DO SOL E ALTO DOS PIRES",
     "localidade": "PONTE DOS CARVALHOS",
     "municipio": "CABO DE SANTO AGOSTINHO, JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -10801,7 +10801,7 @@
   },
   {
     "id": "POCA02",
-    "nome": "AREA 02 AUTO DOS INDIOS E RUA 31 E RUA 32 E LOT ENG ILHA ",
+    "nome": "AREA 02 ALTO DOS INDIOS E RUA 31 E RUA 32 E LOT ENG ILHA ",
     "localidade": "PONTE DOS CARVALHOS",
     "municipio": "CABO DE SANTO AGOSTINHO",
     "coordenadas": [
@@ -11551,7 +11551,7 @@
   },
   {
     "id": "JAUV5",
-    "nome": "AREA 07 AUTO DO BODEIRO",
+    "nome": "AREA 07 ALTO DO BODEIRO",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -11571,7 +11571,7 @@
   },
   {
     "id": "R3MS66389",
-    "nome": "AREA 05 AUTO SANTO ANTONIO",
+    "nome": "AREA 05 ALTO SANTO ANTONIO",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -12071,7 +12071,7 @@
   },
   {
     "id": "IBURS2",
-    "nome": "AREA 02 UR 01 AUTO AV PERNAMBUCO RUA SERRA CAIADA AV MANAUS",
+    "nome": "AREA 02 UR 01 ALTO AV PERNAMBUCO RUA SERRA CAIADA AV MANAUS",
     "localidade": "IBURA",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -12381,7 +12381,7 @@
   },
   {
     "id": "ARMI06",
-    "nome": "AREA 02 AUTO DO MANDU",
+    "nome": "AREA 02 ALTO DO MANDU",
     "localidade": "DOIS IRMAOS",
     "municipio": "RECIFE",
     "coordenadas": [
@@ -12471,7 +12471,7 @@
   },
   {
     "id": "LPCR03",
-    "nome": "AREA 06 LOTEAMENTO AUTO DA FE",
+    "nome": "AREA 06 LOTEAMENTO ALTO DA FE",
     "localidade": "RIBEIRAO",
     "municipio": "RIBEIRAO",
     "coordenadas": [
@@ -12541,7 +12541,7 @@
   },
   {
     "id": "LPCR05",
-    "nome": "AREA 04 AUTO DA CADEIA",
+    "nome": "AREA 04 ALTO DA CADEIA",
     "localidade": "RIBEIRAO",
     "municipio": "RIBEIRAO",
     "coordenadas": [
@@ -12701,7 +12701,7 @@
   },
   {
     "id": "JUC3",
-    "nome": "AREA 03 AUTO DO CEMITERIO",
+    "nome": "AREA 03 ALTO DO CEMITERIO",
     "localidade": "JUCARAL",
     "municipio": "CABO DE SANTO AGOSTINHO",
     "coordenadas": [
@@ -12871,7 +12871,7 @@
   },
   {
     "id": "SIHT16",
-    "nome": "AREA 17 AUTO DA NACAO FRANCISCO BATISTA BEZERRA",
+    "nome": "AREA 17 ALTO DA NACAO FRANCISCO BATISTA BEZERRA",
     "localidade": "OLINDA",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -12981,7 +12981,7 @@
   },
   {
     "id": "96140",
-    "nome": "AREA 11 AUTO DA VITÓRIA",
+    "nome": "AREA 11 ALTO DA VITÓRIA",
     "localidade": "ESCADA",
     "municipio": "ESCADA",
     "coordenadas": [
@@ -13031,7 +13031,7 @@
   },
   {
     "id": "ESCA09",
-    "nome": "AREA 14 AUTO SÃO JOSE",
+    "nome": "AREA 14 ALTO SÃO JOSE",
     "localidade": "ESCADA",
     "municipio": "ESCADA",
     "coordenadas": [
@@ -13101,7 +13101,7 @@
   },
   {
     "id": "96152",
-    "nome": "AREA 05 BELA VISTA AUTO",
+    "nome": "AREA 05 BELA VISTA ALTO",
     "localidade": "ESCADA",
     "municipio": "ESCADA",
     "coordenadas": [
@@ -13111,7 +13111,7 @@
   },
   {
     "id": "ESCA10",
-    "nome": "AREA 15 AUTO DO SACRIFICIO",
+    "nome": "AREA 15 ALTO DO SACRIFICIO",
     "localidade": "ESCADA",
     "municipio": "ESCADA",
     "coordenadas": [
@@ -13581,7 +13581,7 @@
   },
   {
     "id": "IPJ73012",
-    "nome": "AREA 17 RUA 15 AUTO DO AVIAO",
+    "nome": "AREA 17 RUA 15 ALTO DO AVIAO",
     "localidade": "IPOJUCA",
     "municipio": "IPOJUCA",
     "coordenadas": [
@@ -13631,7 +13631,7 @@
   },
   {
     "id": "IPOJ10",
-    "nome": "AREA 18 RUA AUTO SAO JOAO RUROPOLIS AUTO",
+    "nome": "AREA 18 RUA ALTO SAO JOAO RUROPOLIS ALTO",
     "localidade": "IPOJUCA",
     "municipio": "IPOJUCA",
     "coordenadas": [
@@ -14361,7 +14361,7 @@
   },
   {
     "id": "2MS65171",
-    "nome": "AREA 07 AUTO DO RAPOSO",
+    "nome": "AREA 07 ALTO DO RAPOSO",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -14491,7 +14491,7 @@
   },
   {
     "id": "ADC97829",
-    "nome": "AREA 03 BY PASS AUTO DOS CARNEIROS",
+    "nome": "AREA 03 BY PASS ALTO DOS CARNEIROS",
     "localidade": "JORDAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -14731,7 +14731,7 @@
   },
   {
     "id": "98880",
-    "nome": "AREA 01 SAUTO DO NEGRO",
+    "nome": "AREA 01 SALTO DO NEGRO",
     "localidade": "MATRIZ DA LUZ",
     "municipio": "SAO LOURENCO DA MATA",
     "coordenadas": [
@@ -14961,7 +14961,7 @@
   },
   {
     "id": "SAI3",
-    "nome": "AREA 01 PLANAUTO, RUA JOSE ALENCAR DE ARAUJO",
+    "nome": "AREA 01 PLANALTO, RUA JOSE ALENCAR DE ARAUJO",
     "localidade": "SALGUEIRO",
     "municipio": "SALGUEIRO",
     "coordenadas": [
@@ -15051,7 +15051,7 @@
   },
   {
     "id": "DEST99522",
-    "nome": "AREA 03 AUTO DA CAIXA D AGUA",
+    "nome": "AREA 03 ALTO DA CAIXA D AGUA",
     "localidade": "ABREU E LIMA",
     "municipio": "ABREU E LIMA",
     "coordenadas": [
@@ -15161,7 +15161,7 @@
   },
   {
     "id": "PLAB01",
-    "nome": "AREA 01 PLANAUTO CARUARU",
+    "nome": "AREA 01 PLANALTO CARUARU",
     "localidade": "ABREU E LIMA",
     "municipio": "ABREU E LIMA",
     "coordenadas": [
@@ -15301,7 +15301,7 @@
   },
   {
     "id": "RRIIC14",
-    "nome": "AREA 14 AUTO NOSSA SENHA DOS PRAZERES E RUA PIRA",
+    "nome": "AREA 14 ALTO NOSSA SENHA DOS PRAZERES E RUA PIRA",
     "localidade": "IBURA",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -15391,7 +15391,7 @@
   },
   {
     "id": "RRIIC2",
-    "nome": "AREA 02 RUA AUTO DO JORDAO RUA SERRA IBIAPABA",
+    "nome": "AREA 02 RUA ALTO DO JORDAO RUA SERRA IBIAPABA",
     "localidade": "IBURA",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -15641,7 +15641,7 @@
   },
   {
     "id": "AC100342",
-    "nome": "AREA 02 AUTO SAO SEBASTIAO",
+    "nome": "AREA 02 ALTO SAO SEBASTIAO",
     "localidade": "CABO DE SANTO AGOSTINHO",
     "municipio": "CABO DE SANTO AGOSTINHO",
     "coordenadas": [
@@ -15651,7 +15651,7 @@
   },
   {
     "id": "AC100343",
-    "nome": "AREA 06 AUTO DO CRUZEIRO CAPELA",
+    "nome": "AREA 06 ALTO DO CRUZEIRO CAPELA",
     "localidade": "CABO DE SANTO AGOSTINHO",
     "municipio": "CABO DE SANTO AGOSTINHO",
     "coordenadas": [
@@ -15731,7 +15731,7 @@
   },
   {
     "id": "AADC01",
-    "nome": "AREA 01 AUTO DO CRUZEIRO",
+    "nome": "AREA 01 ALTO DO CRUZEIRO",
     "localidade": "CABO DE SANTO AGOSTINHO",
     "municipio": "CABO DE SANTO AGOSTINHO",
     "coordenadas": [
@@ -15741,7 +15741,7 @@
   },
   {
     "id": "AC100340",
-    "nome": "AREA 04 AUTO DO CUSCUZ",
+    "nome": "AREA 04 ALTO DO CUSCUZ",
     "localidade": "CABO DE SANTO AGOSTINHO",
     "municipio": "CABO DE SANTO AGOSTINHO",
     "coordenadas": [
@@ -16581,7 +16581,7 @@
   },
   {
     "id": "CVT102807",
-    "nome": "AREA 10 AUTO DO FOGO",
+    "nome": "AREA 10 ALTO DO FOGO",
     "localidade": "VERTENTES",
     "municipio": "VERTENTES",
     "coordenadas": [
@@ -16611,7 +16611,7 @@
   },
   {
     "id": "CVT102810",
-    "nome": "AREA 03 AUTO DO CRUZEIRO",
+    "nome": "AREA 03 ALTO DO CRUZEIRO",
     "localidade": "VERTENTES",
     "municipio": "VERTENTES",
     "coordenadas": [
@@ -16761,7 +16761,7 @@
   },
   {
     "id": "STMC103652",
-    "nome": "AREA 03 AUTO DAS OLIVEIRAS E VILA DO CAMPO",
+    "nome": "AREA 03 ALTO DAS OLIVEIRAS E VILA DO CAMPO",
     "localidade": "SANTA MARIA DO CAMBUCA",
     "municipio": "SANTA MARIA DO CAMBUCA",
     "coordenadas": [
@@ -16781,7 +16781,7 @@
   },
   {
     "id": "LAG1",
-    "nome": "AREA 01 CENTRO VASCO DER COHAB AUTO DO DECA CRISTO REI CAEIRAS",
+    "nome": "AREA 01 CENTRO VASCO DER COHAB ALTO DO DECA CRISTO REI CAEIRAS",
     "localidade": "LAGOA GRANDE",
     "municipio": "LAGOA GRANDE, PETROLINA",
     "coordenadas": [
@@ -16791,7 +16791,7 @@
   },
   {
     "id": "LAG30",
-    "nome": "AREA 02 MORADA NOVA LOT BELA LAGOA  AUTO GRANDE CHAFARIZ ESTATUA",
+    "nome": "AREA 02 MORADA NOVA LOT BELA LAGOA  ALTO GRANDE CHAFARIZ ESTATUA",
     "localidade": "LAGOA GRANDE",
     "municipio": "LAGOA GRANDE",
     "coordenadas": [
@@ -16891,7 +16891,7 @@
   },
   {
     "id": "CAS107705",
-    "nome": "AREA 09 AUTO SANTA CRUZ",
+    "nome": "AREA 09 ALTO SANTA CRUZ",
     "localidade": "CASINHAS",
     "municipio": "CASINHAS",
     "coordenadas": [
@@ -17921,7 +17921,7 @@
   },
   {
     "id": "CARPV2",
-    "nome": "AREA 03 CARNEIRO LEAO AUTO",
+    "nome": "AREA 03 CARNEIRO LEAO ALTO",
     "localidade": "CARPINA",
     "municipio": "CARPINA",
     "coordenadas": [
@@ -18252,7 +18252,7 @@
   {
     "id": "D18",
     "nome": "AREA 01 DISTRITO 18 - RUA ODORICO MENDES E RUA JERONIMO VILELA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "OLINDA, RECIFE",
     "coordenadas": [
       -8.030761590738571,
@@ -18282,7 +18282,7 @@
   {
     "id": "DD2101",
     "nome": "AREA 01 DISTRITO 21 - RUA DA REGENERACAO ",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.019545194238924,
@@ -18292,7 +18292,7 @@
   {
     "id": "TWPC450",
     "nome": "AREA 01 RUA TENENTE WANDERLEY",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.009470054239248,
@@ -18401,7 +18401,7 @@
   },
   {
     "id": "IBJB05",
-    "nome": "AREA 09 DISTRITO AUTO SAO FRANCISCO",
+    "nome": "AREA 09 DISTRITO ALTO SAO FRANCISCO",
     "localidade": "IBIRAJUBA",
     "municipio": "IBIRAJUBA",
     "coordenadas": [
@@ -18421,7 +18421,7 @@
   },
   {
     "id": "IBJB08",
-    "nome": "AREA 08 AUTO DO CRUZEIRO E RUA DA COMPESA",
+    "nome": "AREA 08 ALTO DO CRUZEIRO E RUA DA COMPESA",
     "localidade": "IBIRAJUBA",
     "municipio": "IBIRAJUBA",
     "coordenadas": [
@@ -18531,7 +18531,7 @@
   },
   {
     "id": "URBU03",
-    "nome": "AREA 04 DMC 20X1 AUTO DA MINA PARTE ALTA",
+    "nome": "AREA 04 DMC 20X1 ALTO DA MINA PARTE ALTA",
     "localidade": "OLINDA",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -18541,7 +18541,7 @@
   },
   {
     "id": "URBU04",
-    "nome": "AREA 05 DMC 20X2 AUTO DA MINA PARTE BAIXA",
+    "nome": "AREA 05 DMC 20X2 ALTO DA MINA PARTE BAIXA",
     "localidade": "OLINDA",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -18681,7 +18681,7 @@
   },
   {
     "id": "PLAB03",
-    "nome": "AREA 03 PLANAUTO 7 DE SETEMBRO EUCALIPTO PARTE BAIXA",
+    "nome": "AREA 03 PLANALTO 7 DE SETEMBRO EUCALIPTO PARTE BAIXA",
     "localidade": "ABREU E LIMA",
     "municipio": "ABREU E LIMA",
     "coordenadas": [
@@ -18801,7 +18801,7 @@
   },
   {
     "id": "R2MS118219",
-    "nome": "AREA 11 RUA SANTA LUZIA SANTO ALEIXO AUTO",
+    "nome": "AREA 11 RUA SANTA LUZIA SANTO ALEIXO ALTO",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -19111,7 +19111,7 @@
   },
   {
     "id": "GZUR120258",
-    "nome": "AREA 13 LOTEAMENTO DO PLANAUTO",
+    "nome": "AREA 13 LOTEAMENTO DO PLANALTO",
     "localidade": "GRAVATA",
     "municipio": "GRAVATA",
     "coordenadas": [
@@ -19391,8 +19391,8 @@
   },
   {
     "id": "CAMN121873",
-    "nome": "AREA 06 RUA AUTO DO EUCALIPTO",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 06 RUA ALTO DO EUCALIPTO",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.00788893873931,
@@ -19402,7 +19402,7 @@
   {
     "id": "CAMN121874",
     "nome": "AREA 07 RUA CAMBURIU",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.006571996239341,
@@ -19411,8 +19411,8 @@
   },
   {
     "id": "CAMN05",
-    "nome": "AREA 08 AUTO NSA SRA FATIMA",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 08 ALTO NSA SRA FATIMA",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.012053447739167,
@@ -19422,7 +19422,7 @@
   {
     "id": "CAMN04",
     "nome": "AREA 05 RUA VASCO DA GAMA E RUA FEDERIGO OZANAM",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.010832702239199,
@@ -19521,7 +19521,7 @@
   },
   {
     "id": "ACVR1",
-    "nome": "AREA 01 AUTO DO CEU",
+    "nome": "AREA 01 ALTO DO CEU",
     "localidade": "IGARASSU",
     "municipio": "IGARASSU",
     "coordenadas": [
@@ -19921,7 +19921,7 @@
   },
   {
     "id": "PG123118",
-    "nome": "AREA 11 PRAIA DE MURRO AUTO",
+    "nome": "AREA 11 PRAIA DE MURRO ALTO",
     "localidade": "PORTO DE GALINHAS",
     "municipio": "IPOJUCA",
     "coordenadas": [
@@ -19981,7 +19981,7 @@
   },
   {
     "id": "R2MS002",
-    "nome": "AREA 12 4A TRAVESSA SANTO ALEIXO AUTO",
+    "nome": "AREA 12 4A TRAVESSA SANTO ALEIXO ALTO",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -19991,7 +19991,7 @@
   },
   {
     "id": "R2MS1",
-    "nome": "AREA 01 SANTO ALEIXO AUTO MUNDO NOVO",
+    "nome": "AREA 01 SANTO ALEIXO ALTO MUNDO NOVO",
     "localidade": "JABOATAO",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -20082,7 +20082,7 @@
   {
     "id": "JPNH02",
     "nome": "AREA 01 RUA SEVERINO BERNADINO PEREIRA E RUA HORACIO SILVA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.02271514323884,
@@ -20291,7 +20291,7 @@
   },
   {
     "id": "SBSL123928",
-    "nome": "AREA 07 AUTO SAO JOSE 1",
+    "nome": "AREA 07 ALTO SAO JOSE 1",
     "localidade": "SAO BENEDITO DO SUL",
     "municipio": "SAO BENEDITO DO SUL",
     "coordenadas": [
@@ -20331,7 +20331,7 @@
   },
   {
     "id": "SBSL123932",
-    "nome": "AREA 09 AUTO SAO JOSE 2",
+    "nome": "AREA 09 ALTO SAO JOSE 2",
     "localidade": "SAO BENEDITO DO SUL",
     "municipio": "SAO BENEDITO DO SUL",
     "coordenadas": [
@@ -20362,7 +20362,7 @@
   {
     "id": "PCOL01",
     "nome": "AREA 01 RUA UNIAO DA VITORIA  E MACAIBA",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.020420263238915,
@@ -20372,7 +20372,7 @@
   {
     "id": "JPNH01",
     "nome": "AREA 02 RUA MACAMBE RUA CHAFARIZ",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.021764144738864,
@@ -20401,7 +20401,7 @@
   },
   {
     "id": "QUIP03",
-    "nome": "AREA 03 AUTO SAO SEBASTIAO",
+    "nome": "AREA 03 ALTO SAO SEBASTIAO",
     "localidade": "QUIPAPA",
     "municipio": "QUIPAPA",
     "coordenadas": [
@@ -20501,7 +20501,7 @@
   },
   {
     "id": "CUM125169",
-    "nome": "AREA 03 AUTO DO JENIPAPEIRO",
+    "nome": "AREA 03 ALTO DO JENIPAPEIRO",
     "localidade": "CUMARU",
     "municipio": "CUMARU",
     "coordenadas": [
@@ -20511,7 +20511,7 @@
   },
   {
     "id": "CUM125170",
-    "nome": "AREA 02 AUTO DA COMPESA",
+    "nome": "AREA 02 ALTO DA COMPESA",
     "localidade": "CUMARU",
     "municipio": "CUMARU",
     "coordenadas": [
@@ -21011,7 +21011,7 @@
   },
   {
     "id": "PBLI11",
-    "nome": "AREA 11 AUTO DA RODOVIARIA MEIO",
+    "nome": "AREA 11 ALTO DA RODOVIARIA MEIO",
     "localidade": "BARREIROS",
     "municipio": "BARREIROS",
     "coordenadas": [
@@ -21021,7 +21021,7 @@
   },
   {
     "id": "PBLI10",
-    "nome": "AREA 10 AUTO DA RODOVIARIA PARTE ALTA",
+    "nome": "AREA 10 ALTO DA RODOVIARIA PARTE ALTA",
     "localidade": "BARREIROS",
     "municipio": "BARREIROS",
     "coordenadas": [
@@ -21031,7 +21031,7 @@
   },
   {
     "id": "PBLI12",
-    "nome": "AREA 12 AUTO DA RODOVIARIA BAIXA",
+    "nome": "AREA 12 ALTO DA RODOVIARIA BAIXA",
     "localidade": "BARREIROS",
     "municipio": "BARREIROS",
     "coordenadas": [
@@ -21111,7 +21111,7 @@
   },
   {
     "id": "BRRS03",
-    "nome": "AREA 03 AUTO DA CAIXA DAGUA TIBIRI",
+    "nome": "AREA 03 ALTO DA CAIXA DAGUA TIBIRI",
     "localidade": "BARREIROS",
     "municipio": "BARREIROS",
     "coordenadas": [
@@ -21141,7 +21141,7 @@
   },
   {
     "id": "PBLI21",
-    "nome": "AREA 20 AUTO BELA VISTA",
+    "nome": "AREA 20 ALTO BELA VISTA",
     "localidade": "BARREIROS",
     "municipio": "BARREIROS",
     "coordenadas": [
@@ -21201,7 +21201,7 @@
   },
   {
     "id": "PBLI24",
-    "nome": "AREA 23 AUTO DA GAIA",
+    "nome": "AREA 23 ALTO DA GAIA",
     "localidade": "BARREIROS",
     "municipio": "BARREIROS",
     "coordenadas": [
@@ -21251,7 +21251,7 @@
   },
   {
     "id": "BVIT125766",
-    "nome": "AREA 01 AUTO DA BELA VISTA",
+    "nome": "AREA 01 ALTO DA BELA VISTA",
     "localidade": "ITAMARACA",
     "municipio": "ILHA DE ITAMARACA",
     "coordenadas": [
@@ -21301,7 +21301,7 @@
   },
   {
     "id": "POMB03",
-    "nome": "AREA 03 SAO GUSTAVO AUTO",
+    "nome": "AREA 03 SAO GUSTAVO ALTO",
     "localidade": "POMBOS",
     "municipio": "POMBOS",
     "coordenadas": [
@@ -21601,7 +21601,7 @@
   },
   {
     "id": "POMB27",
-    "nome": "AREA 27 LOT SAO FELIX AUTO DO FRADE",
+    "nome": "AREA 27 LOT SAO FELIX ALTO DO FRADE",
     "localidade": "POMBOS",
     "municipio": "POMBOS",
     "coordenadas": [
@@ -21631,7 +21631,7 @@
   },
   {
     "id": "POMB30",
-    "nome": "AREA 31 RECANTO AUTO",
+    "nome": "AREA 31 RECANTO ALTO",
     "localidade": "POMBOS",
     "municipio": "POMBOS",
     "coordenadas": [
@@ -21651,7 +21651,7 @@
   },
   {
     "id": "SJAO05",
-    "nome": "AREA 09 PLANAUTO PARTE BAIXA",
+    "nome": "AREA 09 PLANALTO PARTE BAIXA",
     "localidade": "SAO JOAO",
     "municipio": "SAO JOAO",
     "coordenadas": [
@@ -21761,7 +21761,7 @@
   },
   {
     "id": "SJAO125817",
-    "nome": "AREA 12 PARQUE BRASILIA AUTO",
+    "nome": "AREA 12 PARQUE BRASILIA ALTO",
     "localidade": "SAO JOAO",
     "municipio": "SAO JOAO",
     "coordenadas": [
@@ -21771,7 +21771,7 @@
   },
   {
     "id": "SPAL06",
-    "nome": "AREA 08 PLANAUTO PARTE ALTA",
+    "nome": "AREA 08 PLANALTO PARTE ALTA",
     "localidade": "SAO JOAO",
     "municipio": "SAO JOAO",
     "coordenadas": [
@@ -22391,7 +22391,7 @@
   },
   {
     "id": "BLMA05",
-    "nome": "AREA 04 AUTO SANTA LUZIA",
+    "nome": "AREA 04 ALTO SANTA LUZIA",
     "localidade": "BELEM DE MARIA ",
     "municipio": "BELEM DE MARIA",
     "coordenadas": [
@@ -22401,7 +22401,7 @@
   },
   {
     "id": "BLMA02",
-    "nome": "AREA 02 AUTO DO CRUZEIRO E AUTO ALEGRE",
+    "nome": "AREA 02 ALTO DO CRUZEIRO E ALTO ALEGRE",
     "localidade": "BELEM DE MARIA ",
     "municipio": "BELEM DE MARIA",
     "coordenadas": [
@@ -22501,7 +22501,7 @@
   },
   {
     "id": "CBPS127326",
-    "nome": "AREA 01 AUTO DA ESPERANCA CATURITE",
+    "nome": "AREA 01 ALTO DA ESPERANCA CATURITE",
     "localidade": "PASSIRA",
     "municipio": "PASSIRA",
     "coordenadas": [
@@ -22561,7 +22561,7 @@
   },
   {
     "id": "CBPS127332",
-    "nome": "AREA 09 CENTRO AUTO SAO JOSE AUTO BOA VISTA AUTO SAO LOUC",
+    "nome": "AREA 09 CENTRO ALTO SAO JOSE ALTO BOA VISTA ALTO SAO LOUC",
     "localidade": "PASSIRA",
     "municipio": "PASSIRA",
     "coordenadas": [
@@ -23401,7 +23401,7 @@
   },
   {
     "id": "OURI74634",
-    "nome": "AREA 03 AUTO PARAISO",
+    "nome": "AREA 03 ALTO PARAISO",
     "localidade": "OURICURI",
     "municipio": "OURICURI",
     "coordenadas": [
@@ -23421,7 +23421,7 @@
   },
   {
     "id": "GUNI132599",
-    "nome": "AREA 01 AUTO DA COMPESA",
+    "nome": "AREA 01 ALTO DA COMPESA",
     "localidade": "GUARANI",
     "municipio": "PARNAMIRIM, TERRA NOVA",
     "coordenadas": [
@@ -23831,7 +23831,7 @@
   },
   {
     "id": "STCR01",
-    "nome": "AREA 01 RUA AUTO SANTA TEREZINHA RUA CARUARU",
+    "nome": "AREA 01 RUA ALTO SANTA TEREZINHA RUA CARUARU",
     "localidade": "TIMBAUBA",
     "municipio": "TIMBAUBA",
     "coordenadas": [
@@ -24721,7 +24721,7 @@
   },
   {
     "id": "SIHT04",
-    "nome": "AREA 08 AUTO DA SE E AUTO SARAPIAO",
+    "nome": "AREA 08 ALTO DA SE E ALTO SARAPIAO",
     "localidade": "OLINDA",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -24861,7 +24861,7 @@
   },
   {
     "id": "MOR14",
-    "nome": "AREA 14 AUTO DA LIBERDADE PARTE ALTA",
+    "nome": "AREA 14 ALTO DA LIBERDADE PARTE ALTA",
     "localidade": "MORENO",
     "municipio": "MORENO",
     "coordenadas": [
@@ -24871,7 +24871,7 @@
   },
   {
     "id": "MOR6",
-    "nome": "AREA 06 AUTO DA LIBERDADE PARTE BAIXA",
+    "nome": "AREA 06 ALTO DA LIBERDADE PARTE BAIXA",
     "localidade": "MORENO",
     "municipio": "MORENO",
     "coordenadas": [
@@ -24911,7 +24911,7 @@
   },
   {
     "id": "MOR9",
-    "nome": "AREA 09 AUTO DAS ESTRELAS",
+    "nome": "AREA 09 ALTO DAS ESTRELAS",
     "localidade": "MORENO",
     "municipio": "MORENO",
     "coordenadas": [
@@ -24951,7 +24951,7 @@
   },
   {
     "id": "MOR38",
-    "nome": "AREA 38 AUTO DA CATITA",
+    "nome": "AREA 38 ALTO DA CATITA",
     "localidade": "MORENO",
     "municipio": "MORENO",
     "coordenadas": [
@@ -25621,7 +25621,7 @@
   },
   {
     "id": "PACHE06",
-    "nome": "AREA 06 AUTO JOAO BOARQUE",
+    "nome": "AREA 06 ALTO JOAO BOARQUE",
     "localidade": "JANGADINHA",
     "municipio": "JABOATAO DOS GUARARAPES, RECIFE",
     "coordenadas": [
@@ -25721,7 +25721,7 @@
   },
   {
     "id": "CAVA05",
-    "nome": "AREA 08 AUTO DO CRISTO",
+    "nome": "AREA 08 ALTO DO CRISTO",
     "localidade": "JANGADINHA",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -26771,7 +26771,7 @@
   },
   {
     "id": "142860",
-    "nome": "AREA 02 AUTO DA CONCEICAO",
+    "nome": "AREA 02 ALTO DA CONCEICAO",
     "localidade": "SERRA TALHADA",
     "municipio": "SERRA TALHADA",
     "coordenadas": [
@@ -27031,7 +27031,7 @@
   },
   {
     "id": "PED78371",
-    "nome": "AREA 10 AUTO DA BOA VISTA",
+    "nome": "AREA 10 ALTO DA BOA VISTA",
     "localidade": "PEDRA",
     "municipio": "PEDRA",
     "coordenadas": [
@@ -27511,7 +27511,7 @@
   },
   {
     "id": "ADMX01",
-    "nome": "AREA 01 RUA VELHA E AUTO DO RIO BRANCO",
+    "nome": "AREA 01 RUA VELHA E ALTO DO RIO BRANCO",
     "localidade": "SERTANIA",
     "municipio": "SERTANIA",
     "coordenadas": [
@@ -27841,7 +27841,7 @@
   },
   {
     "id": "PCAC144288",
-    "nome": "AREA 05 AUTO DO CEMITERIO",
+    "nome": "AREA 05 ALTO DO CEMITERIO",
     "localidade": "PONTE DOS CARVALHOS",
     "municipio": "CABO DE SANTO AGOSTINHO",
     "coordenadas": [
@@ -27901,7 +27901,7 @@
   },
   {
     "id": "116009",
-    "nome": "AREA 04 AUTO DA VITORIA E CIDADE JARDIM",
+    "nome": "AREA 04 ALTO DA VITORIA E CIDADE JARDIM",
     "localidade": "VITORIA DE SANTO ANTAO",
     "municipio": "VITORIA DE SANTO ANTAO",
     "coordenadas": [
@@ -27961,7 +27961,7 @@
   },
   {
     "id": "AJLV83170",
-    "nome": "AREA 01 AUTO JOSE LEAL PARTE BAIXA RUA SANTA TEREZA",
+    "nome": "AREA 01 ALTO JOSE LEAL PARTE BAIXA RUA SANTA TEREZA",
     "localidade": "VITORIA DE SANTO ANTAO",
     "municipio": "VITORIA DE SANTO ANTAO",
     "coordenadas": [
@@ -28031,7 +28031,7 @@
   },
   {
     "id": "AJLV83148",
-    "nome": "AREA 02 AUTO JOSE LEAL PARTE ALTA RUA SAO DOMINGOS E RUA JACY",
+    "nome": "AREA 02 ALTO JOSE LEAL PARTE ALTA RUA SAO DOMINGOS E RUA JACY",
     "localidade": "VITORIA DE SANTO ANTAO",
     "municipio": "VITORIA DE SANTO ANTAO",
     "coordenadas": [
@@ -28201,7 +28201,7 @@
   },
   {
     "id": "AGB83174",
-    "nome": "AREA 01 CAJA  AUTO RUA DOUTOR WALTER BARROS",
+    "nome": "AREA 01 CAJA  ALTO RUA DOUTOR WALTER BARROS",
     "localidade": "VITORIA DE SANTO ANTAO",
     "municipio": "VITORIA DE SANTO ANTAO",
     "coordenadas": [
@@ -28391,7 +28391,7 @@
   },
   {
     "id": "SIMV83116",
-    "nome": "AREA 17 IRÃ AUTO RUA VALDEMAR ELIAS DOS SANTOS",
+    "nome": "AREA 17 IRÃ ALTO RUA VALDEMAR ELIAS DOS SANTOS",
     "localidade": "VITORIA DE SANTO ANTAO",
     "municipio": "VITORIA DE SANTO ANTAO",
     "coordenadas": [
@@ -28401,7 +28401,7 @@
   },
   {
     "id": "SIMV83108",
-    "nome": "AREA 07 AUTO DO CIGANO RUA SANTA MARIA",
+    "nome": "AREA 07 ALTO DO CIGANO RUA SANTA MARIA",
     "localidade": "VITORIA DE SANTO ANTAO",
     "municipio": "VITORIA DE SANTO ANTAO",
     "coordenadas": [
@@ -28501,7 +28501,7 @@
   },
   {
     "id": "SIMV5",
-    "nome": "AREA 11 AUTO DA BALANÇA RUA FERRIL E RUA DAS ROSAS",
+    "nome": "AREA 11 ALTO DA BALANÇA RUA FERRIL E RUA DAS ROSAS",
     "localidade": "VITORIA DE SANTO ANTAO",
     "municipio": "VITORIA DE SANTO ANTAO",
     "coordenadas": [
@@ -28591,7 +28591,7 @@
   },
   {
     "id": "SIMV2",
-    "nome": "AREA 02 MARIO BEZERRA AUTO RUA SAO BENEDITO E RUA DO VENTO",
+    "nome": "AREA 02 MARIO BEZERRA ALTO RUA SAO BENEDITO E RUA DO VENTO",
     "localidade": "VITORIA DE SANTO ANTAO",
     "municipio": "VITORIA DE SANTO ANTAO",
     "coordenadas": [
@@ -29001,7 +29001,7 @@
   },
   {
     "id": "MU89465",
-    "nome": "AREA 08 AUTO LAGOA DO CERCADO E COVA DOS CABOCLOS",
+    "nome": "AREA 08 ALTO LAGOA DO CERCADO E COVA DOS CABOCLOS",
     "localidade": "MULUNGU",
     "municipio": "SANHARO",
     "coordenadas": [
@@ -29231,7 +29231,7 @@
   },
   {
     "id": "SBRP03",
-    "nome": "AREA 03 BALANCA E AUTO DA BALANCA",
+    "nome": "AREA 03 BALANCA E ALTO DA BALANCA",
     "localidade": "SAO BENTO DO UNA",
     "municipio": "SAO BENTO DO UNA",
     "coordenadas": [
@@ -29461,7 +29461,7 @@
   },
   {
     "id": "VICO2",
-    "nome": "AREA 02 PASSARINHO AUTO",
+    "nome": "AREA 02 PASSARINHO ALTO",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA, PAULISTA, RECIFE",
     "coordenadas": [
@@ -29601,7 +29601,7 @@
   },
   {
     "id": "145312",
-    "nome": "AREA 08 CONCEICAO AUTO SOL NASCENTE",
+    "nome": "AREA 08 CONCEICAO ALTO SOL NASCENTE",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA, PAULISTA",
     "coordenadas": [
@@ -29611,7 +29611,7 @@
   },
   {
     "id": "MCIB02",
-    "nome": "AREA 02 AUTO DA MACAIBA",
+    "nome": "AREA 02 ALTO DA MACAIBA",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -29631,7 +29631,7 @@
   },
   {
     "id": "CAVAIV",
-    "nome": "AREA 04 AUTO DA BELA VISTA",
+    "nome": "AREA 04 ALTO DA BELA VISTA",
     "localidade": "JANGADINHA",
     "municipio": "JABOATAO DOS GUARARAPES, RECIFE",
     "coordenadas": [
@@ -29671,7 +29671,7 @@
   },
   {
     "id": "CAVAVII",
-    "nome": "AREA 07 AUTO SANTA TERESINHA",
+    "nome": "AREA 07 ALTO SANTA TERESINHA",
     "localidade": "JANGADINHA",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -29691,7 +29691,7 @@
   },
   {
     "id": "CAVA03",
-    "nome": "AREA 03 AUTO DA COLINA",
+    "nome": "AREA 03 ALTO DA COLINA",
     "localidade": "JANGADINHA",
     "municipio": "JABOATAO DOS GUARARAPES, RECIFE",
     "coordenadas": [
@@ -32481,7 +32481,7 @@
   },
   {
     "id": "POJE03",
-    "nome": "AREA 03 AUTO DO CANTINHO E PAU FERRO",
+    "nome": "AREA 03 ALTO DO CANTINHO E PAU FERRO",
     "localidade": "LAJEDO",
     "municipio": "CALCADO, LAJEDO",
     "coordenadas": [
@@ -32561,7 +32561,7 @@
   },
   {
     "id": "STLJ03",
-    "nome": "AREA 03 PLANAUTO",
+    "nome": "AREA 03 PLANALTO",
     "localidade": "LAJEDO",
     "municipio": "LAJEDO",
     "coordenadas": [
@@ -32651,7 +32651,7 @@
   },
   {
     "id": "PACE70977",
-    "nome": "AREA 02 RUA AUTO SUMARE",
+    "nome": "AREA 02 RUA ALTO SUMARE",
     "localidade": "PAULISTA",
     "municipio": "PAULISTA",
     "coordenadas": [
@@ -32741,7 +32741,7 @@
   },
   {
     "id": "PACHE01",
-    "nome": "AREA 01 AUTO DO RODO",
+    "nome": "AREA 01 ALTO DO RODO",
     "localidade": "JANGADINHA",
     "municipio": "JABOATAO DOS GUARARAPES",
     "coordenadas": [
@@ -33291,7 +33291,7 @@
   },
   {
     "id": "BEJA144843",
-    "nome": "AREA 09 BAIRRO DO PLANAUTO",
+    "nome": "AREA 09 BAIRRO DO PLANALTO",
     "localidade": "BELO JARDIM",
     "municipio": "BELO JARDIM",
     "coordenadas": [
@@ -33331,7 +33331,7 @@
   },
   {
     "id": "BJAP149365",
-    "nome": "AREA 02 AUTO DA PALESTINA",
+    "nome": "AREA 02 ALTO DA PALESTINA",
     "localidade": "BELO JARDIM",
     "municipio": "BELO JARDIM",
     "coordenadas": [
@@ -33501,7 +33501,7 @@
   },
   {
     "id": "AIPV127758",
-    "nome": "AREA 01 AUTO VERMELHO",
+    "nome": "AREA 01 ALTO VERMELHO",
     "localidade": "AFOGADOS DA INGAZEIRA",
     "municipio": "AFOGADOS DA INGAZEIRA",
     "coordenadas": [
@@ -33591,7 +33591,7 @@
   },
   {
     "id": "RST14",
-    "nome": "AREA 13 AUTO SANTO ANTONIO",
+    "nome": "AREA 13 ALTO SANTO ANTONIO",
     "localidade": "SAO LOURENCO DA MATA",
     "municipio": "SAO LOURENCO DA MATA",
     "coordenadas": [
@@ -33621,7 +33621,7 @@
   },
   {
     "id": "RST7",
-    "nome": "AREA 07 PENEDO AUTO",
+    "nome": "AREA 07 PENEDO ALTO",
     "localidade": "SAO LOURENCO DA MATA",
     "municipio": "SAO LOURENCO DA MATA",
     "coordenadas": [
@@ -33921,7 +33921,7 @@
   },
   {
     "id": "SJRP04",
-    "nome": "AREA 04 AUTO DO CEMITERIO",
+    "nome": "AREA 04 ALTO DO CEMITERIO",
     "localidade": "SAO JOSE DO EGITO",
     "municipio": "SAO JOSE DO EGITO",
     "coordenadas": [
@@ -33971,7 +33971,7 @@
   },
   {
     "id": "SJEG207",
-    "nome": "AREA 11 AUTO DA BALA",
+    "nome": "AREA 11 ALTO DA BALA",
     "localidade": "SAO JOSE DO EGITO",
     "municipio": "SAO JOSE DO EGITO",
     "coordenadas": [
@@ -34321,7 +34321,7 @@
   },
   {
     "id": "SETA1",
-    "nome": "AREA 01 SEM TERRA AUTO",
+    "nome": "AREA 01 SEM TERRA ALTO",
     "localidade": "PAULISTA",
     "municipio": "OLINDA, PAULISTA",
     "coordenadas": [
@@ -34581,7 +34581,7 @@
   },
   {
     "id": "NIT4",
-    "nome": "AREA 04 AUTO DE NEGRAS",
+    "nome": "AREA 04 ALTO DE NEGRAS",
     "localidade": "VILA DE NEGRAS",
     "municipio": "ITAIBA",
     "coordenadas": [
@@ -35451,7 +35451,7 @@
   },
   {
     "id": "ZORS125287",
-    "nome": "AREA 04 AUTO DA CARTOLA  E RESTAURANTE DE LUCIA PELADAS",
+    "nome": "AREA 04 ALTO DA CARTOLA  E RESTAURANTE DE LUCIA PELADAS",
     "localidade": "CARUARU",
     "municipio": "SAO CAETANO",
     "coordenadas": [
@@ -35621,7 +35621,7 @@
   },
   {
     "id": "MU152681",
-    "nome": "AREA 07 AUTO DO CRUZEIRO",
+    "nome": "AREA 07 ALTO DO CRUZEIRO",
     "localidade": "MULUNGU",
     "municipio": "SANHARO",
     "coordenadas": [
@@ -35681,7 +35681,7 @@
   },
   {
     "id": "DVAB01",
-    "nome": "AREA 01 AUTO SANTIAGO",
+    "nome": "AREA 01 ALTO SANTIAGO",
     "localidade": "SAO BENTO DO UNA",
     "municipio": "SAO BENTO DO UNA",
     "coordenadas": [
@@ -35911,7 +35911,7 @@
   },
   {
     "id": "153992",
-    "nome": "AREA 26 AUTO SANTO ANTONIO PC",
+    "nome": "AREA 26 ALTO SANTO ANTONIO PC",
     "localidade": "SAO LOURENCO DA MATA",
     "municipio": "SAO LOURENCO DA MATA",
     "coordenadas": [
@@ -36061,7 +36061,7 @@
   },
   {
     "id": "ALDM02",
-    "nome": "AREA 22 AUTO DO MOURA",
+    "nome": "AREA 22 ALTO DO MOURA",
     "localidade": "CARUARU",
     "municipio": "CARUARU",
     "coordenadas": [
@@ -36141,7 +36141,7 @@
   },
   {
     "id": "CEPE24",
-    "nome": "AREA 27 RESIDENCIAL AUTO DO MOURA",
+    "nome": "AREA 27 RESIDENCIAL ALTO DO MOURA",
     "localidade": "CARUARU",
     "municipio": "CARUARU",
     "coordenadas": [
@@ -36721,7 +36721,7 @@
   },
   {
     "id": "CEPE75479",
-    "nome": "AREA 04 PETROPOLIS BAIXO E AUTO DA BANANA",
+    "nome": "AREA 04 PETROPOLIS BAIXO E ALTO DA BANANA",
     "localidade": "CARUARU",
     "municipio": "CARUARU",
     "coordenadas": [
@@ -37391,7 +37391,7 @@
   },
   {
     "id": "IBGA09",
-    "nome": "AREA 05 RUA LA DO AUTO",
+    "nome": "AREA 05 RUA LA DO ALTO",
     "localidade": "IBITIRANGA",
     "municipio": "CARNAIBA",
     "coordenadas": [
@@ -37411,7 +37411,7 @@
   },
   {
     "id": "IBGA154410",
-    "nome": "AREA 06 BECO DO AUTO VERMELHO",
+    "nome": "AREA 06 BECO DO ALTO VERMELHO",
     "localidade": "IBITIRANGA",
     "municipio": "CARNAIBA",
     "coordenadas": [
@@ -37491,7 +37491,7 @@
   },
   {
     "id": "87315",
-    "nome": "AREA 02 LOT RIACHO DO MEL AUTO DO QUIRINO",
+    "nome": "AREA 02 LOT RIACHO DO MEL ALTO DO QUIRINO",
     "localidade": "GRAVATA",
     "municipio": "GRAVATA",
     "coordenadas": [
@@ -37511,7 +37511,7 @@
   },
   {
     "id": "154816",
-    "nome": "AREA 01 AUTO DO CRUZEIRIO",
+    "nome": "AREA 01 ALTO DO CRUZEIRIO",
     "localidade": "GRAVATA",
     "municipio": "GRAVATA",
     "coordenadas": [
@@ -37841,8 +37841,8 @@
   },
   {
     "id": "ADPB156049",
-    "nome": "AREA 19 RUA AUTO DOS COQUEIROS E RUA TRES LAGOAS PARTE BAIXA",
-    "localidade": "AUTO DO CEU",
+    "nome": "AREA 19 RUA ALTO DOS COQUEIROS E RUA TRES LAGOAS PARTE BAIXA",
+    "localidade": "ALTO DO CEU",
     "municipio": "RECIFE",
     "coordenadas": [
       -8.006589668239325,
@@ -38191,7 +38191,7 @@
   },
   {
     "id": "FLRE10",
-    "nome": "AREA 07 AUTO PEDRO DE SOUZA",
+    "nome": "AREA 07 ALTO PEDRO DE SOUZA",
     "localidade": "FLORES",
     "municipio": "FLORES",
     "coordenadas": [
@@ -38441,7 +38441,7 @@
   },
   {
     "id": "CORR01",
-    "nome": "AREA 01 AUTO SAO JOSE",
+    "nome": "AREA 01 ALTO SAO JOSE",
     "localidade": "CORRENTES",
     "municipio": "CORRENTES",
     "coordenadas": [
@@ -38691,7 +38691,7 @@
   },
   {
     "id": "CABX113853",
-    "nome": "AREA 05 AUTO DA MANGUBA PARTE BAIXA",
+    "nome": "AREA 05 ALTO DA MANGUBA PARTE BAIXA",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -38731,7 +38731,7 @@
   },
   {
     "id": "NOLI1",
-    "nome": "AREA 01 AUTO NOVA OLINDA",
+    "nome": "AREA 01 ALTO NOVA OLINDA",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -38751,7 +38751,7 @@
   },
   {
     "id": "CABX113855",
-    "nome": "AREA 04 AUTO DA MANGUBA PARTE ALTA",
+    "nome": "AREA 04 ALTO DA MANGUBA PARTE ALTA",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -38781,7 +38781,7 @@
   },
   {
     "id": "ALCA1",
-    "nome": "AREA 01 AUTO DO CAJUEIRO",
+    "nome": "AREA 01 ALTO DO CAJUEIRO",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -38801,7 +38801,7 @@
   },
   {
     "id": "ALCO1",
-    "nome": "AREA 01 AUTO DA CONQUISTA",
+    "nome": "AREA 01 ALTO DA CONQUISTA",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA, PAULISTA",
     "coordenadas": [
@@ -38852,7 +38852,7 @@
   {
     "id": "RPQN01",
     "nome": "AREA 01 AV BEBERIBE E RUA DO ANIL",
-    "localidade": "AUTO DO CEU",
+    "localidade": "ALTO DO CEU",
     "municipio": "OLINDA, RECIFE",
     "coordenadas": [
       -8.008274459239269,
@@ -38871,7 +38871,7 @@
   },
   {
     "id": "ABAL1",
-    "nome": "AREA 01 AUTO DA BONDADE PARTE ALTA",
+    "nome": "AREA 01 ALTO DA BONDADE PARTE ALTA",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -38881,7 +38881,7 @@
   },
   {
     "id": "CABX113851",
-    "nome": "AREA 03 AUTO DA SUCUPIRA",
+    "nome": "AREA 03 ALTO DA SUCUPIRA",
     "localidade": "PEIXINHOS",
     "municipio": "OLINDA",
     "coordenadas": [
@@ -38941,7 +38941,7 @@
   },
   {
     "id": "CARF01",
-    "nome": "AREA 01 AUTO SANTO ANTONIO E AREEIRO",
+    "nome": "AREA 01 ALTO SANTO ANTONIO E AREEIRO",
     "localidade": "CAMARAGIBE",
     "municipio": "CAMARAGIBE, RECIFE",
     "coordenadas": [
@@ -39331,7 +39331,7 @@
   },
   {
     "id": "STVII1",
-    "nome": "AREA 01 AUTO BOM JESUS",
+    "nome": "AREA 01 ALTO BOM JESUS",
     "localidade": "SERRA TALHADA",
     "municipio": "SERRA TALHADA",
     "coordenadas": [
@@ -39671,7 +39671,7 @@
   },
   {
     "id": "ALAR01",
-    "nome": "AREA 01 AUTO CARDEAL PARTE BAIXA E",
+    "nome": "AREA 01 ALTO CARDEAL PARTE BAIXA E",
     "localidade": "ARCOVERDE",
     "municipio": "ARCOVERDE",
     "coordenadas": [
@@ -40761,7 +40761,7 @@
   },
   {
     "id": "AFEP9629",
-    "nome": "AREA 02 PLANAUTO PARTE BAIXA",
+    "nome": "AREA 02 PLANALTO PARTE BAIXA",
     "localidade": "AFOGADOS DA INGAZEIRA",
     "municipio": "AFOGADOS DA INGAZEIRA",
     "coordenadas": [
@@ -40801,7 +40801,7 @@
   },
   {
     "id": "GEPA06",
-    "nome": "AREA 03 PLANAUTO PARTE ALTA",
+    "nome": "AREA 03 PLANALTO PARTE ALTA",
     "localidade": "AFOGADOS DA INGAZEIRA",
     "municipio": "AFOGADOS DA INGAZEIRA",
     "coordenadas": [
@@ -41181,7 +41181,7 @@
   },
   {
     "id": "BREJ05",
-    "nome": "AREA 05 AUTO DO COMERCIO BREJINHO",
+    "nome": "AREA 05 ALTO DO COMERCIO BREJINHO",
     "localidade": "BREJINHO",
     "municipio": "BREJINHO",
     "coordenadas": [
@@ -41191,7 +41191,7 @@
   },
   {
     "id": "BREJ07",
-    "nome": "AREA 07 AUTO DA BOA VISTA",
+    "nome": "AREA 07 ALTO DA BOA VISTA",
     "localidade": "BREJINHO",
     "municipio": "BREJINHO",
     "coordenadas": [
