@@ -55,7 +55,7 @@ Os bairros são mapeados manualmente para garantir que a Alexa entenda nomes com
 - Poço da Panela
 - Prado
 - Recife Antigo
-- Rio Doce
+- Rio Doce (Area 04)
 - Roda de Fogo
 - Rosarinho
 - Santana
@@ -66,7 +66,6 @@ Os bairros são mapeados manualmente para garantir que a Alexa entenda nomes com
 - Sapucaia
 - Tamarineira
 - Torre
-- 
 - (Sinta-se à vontade para adicionar o seu aqui ao contribuir!)
 
 ## Como Contribuir
