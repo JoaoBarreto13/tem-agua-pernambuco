@@ -55,7 +55,7 @@ Os bairros são mapeados manualmente para garantir que a Alexa entenda nomes com
 - Poço da Panela
 - Prado
 - Recife Antigo
-- Rio Doce (Area 04)
+- Rio Doce (Area 04, Acacias, Amora, Rua Vinte e Oito, Bem te Vi, Juriti, Soco, Rua Cinquenta e Seis, Sitio Benjamim)
 - Roda de Fogo
 - Rosarinho
 - Santana
