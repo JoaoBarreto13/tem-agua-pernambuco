@@ -75,7 +75,7 @@ Se você quer adicionar um bairro ou corrigir um nome e ajudar no projeto, siga 
 1. Faça um **Fork** do projeto.
 2. Acesse o site oficial: Vá ao [Calendário de Abastecimento da Compesa](https://servicos.compesa.com.br/calendario-de-abastecimento-da-compesa/).
 3. Identifique sua área: Selecione sua cidade e/ou bairro no site para descobrir o nome da sua área de calendário.
-4. Abra o o arquivo `bairros_com_coordenada.json` para ver todos os IDs e nomes de área.
+4. Abra o o arquivo `bairros_com_coordenadas.json` para ver todos os IDs e nomes de área.
 5. Use `Ctrl + F` para buscar pelo **nome da sua área** e encontrar o ID correspondente.
 6. Adicione a entrada no arquivo `bairros.json` seguindo o padrão `"NOME DO BAIRRO": "ID"`.
 7. Altere o `README.md` colocando o bairro novo

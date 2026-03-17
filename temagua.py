@@ -1,7 +1,50 @@
 import requests
 import json
 import os
+import logging
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
+
+logger = logging.getLogger(__name__)
+
+
+class CompesaApiError(Exception):
+    """Erro de integração com a API da Compesa com contexto para diagnóstico."""
+
+
+def _buscar_json_compesa(url, timeout, contexto):
+    try:
+        response = requests.get(url, timeout=timeout)
+        response.raise_for_status()
+    except requests.exceptions.Timeout as exc:
+        logger.warning("COMPESA_TIMEOUT | contexto=%s | detalhe=%s", contexto, exc)
+        raise CompesaApiError("timeout") from exc
+    except requests.exceptions.HTTPError as exc:
+        status = exc.response.status_code if exc.response is not None else "desconhecido"
+        corpo = (exc.response.text[:300] if exc.response is not None and exc.response.text else "")
+        logger.error(
+            "COMPESA_HTTP_ERROR | contexto=%s | status=%s | resposta=%s",
+            contexto,
+            status,
+            corpo,
+        )
+        raise CompesaApiError(f"http_{status}") from exc
+    except requests.exceptions.RequestException as exc:
+        logger.error("COMPESA_REQUEST_ERROR | contexto=%s | detalhe=%s", contexto, exc)
+        raise CompesaApiError("request_exception") from exc
+
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        trecho = response.text[:300] if response.text else ""
+        logger.error("COMPESA_JSON_INVALIDO | contexto=%s | resposta=%s", contexto, trecho)
+        raise CompesaApiError("json_invalido") from exc
+
+    if isinstance(payload, dict) and payload.get("error"):
+        logger.error("COMPESA_ERRO_API | contexto=%s | erro=%s", contexto, payload.get("error"))
+        raise CompesaApiError("erro_api")
+
+    return payload
 
 def buscar_calendario_compesa(nome_bairro_usuario, jaPerguntou=False):
     caminho_json = os.path.join(os.path.dirname(__file__), 'bairros.json')
@@ -39,8 +82,9 @@ def buscar_calendario_compesa(nome_bairro_usuario, jaPerguntou=False):
     if not id_area:
         return f"Desculpe, eu ainda não encontrei o {nome_bairro_usuario.title()} na minha lista."
     
-    agora_utc = datetime.now(timezone.utc)
-    hoje = agora_utc.date()
+    tz_recife = ZoneInfo("America/Recife")
+    agora_local = datetime.now(tz_recife)
+    hoje = agora_local.date()
     mes_atual = hoje.strftime('%m')
     ano_atual = hoje.strftime('%Y')
 
@@ -54,13 +98,21 @@ def buscar_calendario_compesa(nome_bairro_usuario, jaPerguntou=False):
     )
 
     try:
-        res_m = requests.get(url_manutencao, timeout=10).json()
-        res_a = requests.get(url_calendario, timeout=10).json()
+        res_m = _buscar_json_compesa(
+            url_manutencao,
+            timeout=10,
+            contexto=f"manutencao:id_area={id_area}",
+        )
+        res_a = _buscar_json_compesa(
+            url_calendario,
+            timeout=10,
+            contexto=f"calendario:id_area={id_area}",
+        )
 
         manutencao_msg = ""
         for f in res_m.get("features", []):
             at = f["attributes"]
-            dt_m_ini = datetime.fromtimestamp(at["INICIO_PREVISTO"] / 1000, tz=timezone.utc)
+            dt_m_ini = datetime.fromtimestamp(at["INICIO_PREVISTO"] / 1000, tz=timezone.utc).astimezone(tz_recife)
             if dt_m_ini.date() == hoje:
                 manutencao_msg = f"consta uma manutenção para {at['DESCRICAO_SERVICO'].lower()}. "
                 break
@@ -73,12 +125,12 @@ def buscar_calendario_compesa(nome_bairro_usuario, jaPerguntou=False):
 
         for f in eventos:
             at = f["attributes"]
-            dt_ini = datetime.fromtimestamp(at["Inicio"] / 1000, tz=timezone.utc)
-            dt_fim = datetime.fromtimestamp(at["Termino"] / 1000, tz=timezone.utc)
+            dt_ini = datetime.fromtimestamp(at["Inicio"] / 1000, tz=timezone.utc).astimezone(tz_recife)
+            dt_fim = datetime.fromtimestamp(at["Termino"] / 1000, tz=timezone.utc).astimezone(tz_recife)
 
-            if dt_fim > agora_utc:
+            if dt_fim > agora_local:
                 selecionado = (dt_ini, dt_fim)
-                if dt_ini <= agora_utc:
+                if dt_ini <= agora_local:
                     tipo = "rolando"
                 elif dt_ini.date() == hoje:
                     tipo = "futuro_hoje"
@@ -121,7 +173,9 @@ def buscar_calendario_compesa(nome_bairro_usuario, jaPerguntou=False):
 
         return f"Em {nome_bairro_usuario.title()}, {status_manut}No calendário, {status_agua}"
 
+    except CompesaApiError as e:
+        logger.warning("Falha de integração com Compesa: %s", e)
+        return "Desculpe, não consegui acessar o sistema da Compesa agora. Tente novamente em instantes."
     except Exception as e:
-        print(f"Erro técnico: {e}")
-        
-        return "Desculpe, não consegui acessar o sistema da Compesa agora."
+        logger.exception("Erro inesperado ao processar calendário da Compesa: %s", e)
+        return "Desculpe, ocorreu um erro inesperado ao consultar a Compesa."
